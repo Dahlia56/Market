@@ -1,0 +1,2001 @@
+user_id,age,city,income_level,app_used,orders_per_month,avg_order_value
+0,42,Pretoria,Low,Mr D,3,83
+1,26,Durban,Medium,Uber Eats,9,149
+2,30,Pretoria,High,Uber Eats,9,164
+3,53,Cape Town,Low,Mr D,0,81
+4,33,Durban,High,Mr D,15,198
+5,35,Durban,High,Mr D,17,209
+6,33,Durban,Medium,Mr D,4,128
+7,40,Cape Town,High,Mr D,8,182
+8,42,Johannesburg,Low,Uber Eats,2,116
+9,34,Cape Town,Medium,Uber Eats,7,119
+10,47,Johannesburg,High,Mr D,14,226
+11,35,Cape Town,Medium,Uber Eats,8,132
+12,56,Durban,Medium,Uber Eats,3,132
+13,49,Pretoria,Medium,Mr D,3,118
+14,44,Cape Town,High,Bolt Food,15,250
+15,51,Pretoria,Medium,Bolt Food,6,173
+16,27,Durban,High,Bolt Food,18,240
+17,33,Durban,Medium,Mr D,7,179
+18,24,Johannesburg,Low,Uber Eats,1,75
+19,57,Cape Town,Low,Bolt Food,2,108
+20,38,Cape Town,High,Mr D,11,166
+21,49,Johannesburg,Low,Bolt Food,3,86
+22,37,Durban,Medium,Bolt Food,3,152
+23,55,Pretoria,Medium,Uber Eats,8,154
+24,18,Cape Town,Medium,Bolt Food,7,146
+25,32,Durban,Medium,Mr D,3,113
+26,24,Durban,Low,Uber Eats,1,90
+27,41,Pretoria,Low,Mr D,0,101
+28,49,Pretoria,Low,Bolt Food,3,95
+29,41,Cape Town,High,Mr D,13,240
+30,42,Durban,Medium,Uber Eats,6,117
+31,54,Durban,Medium,Mr D,6,163
+32,25,Pretoria,Medium,Mr D,4,129
+33,45,Pretoria,Low,Uber Eats,2,70
+34,48,Durban,High,Uber Eats,14,249
+35,47,Johannesburg,Medium,Bolt Food,6,114
+36,48,Cape Town,Medium,Uber Eats,7,178
+37,46,Durban,Medium,Bolt Food,4,101
+38,37,Johannesburg,Low,Mr D,3,81
+39,55,Cape Town,Medium,Mr D,4,174
+40,45,Durban,Medium,Bolt Food,5,107
+41,46,Durban,Low,Bolt Food,1,114
+42,31,Johannesburg,Medium,Bolt Food,5,108
+43,52,Johannesburg,Low,Mr D,3,71
+44,20,Cape Town,Low,Mr D,1,115
+45,45,Durban,Medium,Uber Eats,3,120
+46,27,Durban,High,Mr D,10,197
+47,39,Johannesburg,Medium,Bolt Food,6,149
+48,40,Johannesburg,Medium,Bolt Food,6,177
+49,25,Cape Town,Medium,Mr D,5,134
+50,54,Durban,Medium,Bolt Food,4,171
+51,34,Durban,High,Mr D,9,155
+52,39,Durban,Low,Bolt Food,3,95
+53,29,Cape Town,Medium,Uber Eats,4,114
+54,40,Cape Town,Medium,Bolt Food,10,106
+55,47,Johannesburg,High,Mr D,19,219
+56,41,Durban,Low,Uber Eats,1,83
+57,54,Durban,Low,Uber Eats,1,93
+58,57,Pretoria,High,Mr D,18,173
+59,18,Cape Town,Medium,Bolt Food,6,156
+60,45,Johannesburg,Medium,Mr D,9,122
+61,38,Pretoria,High,Bolt Food,13,265
+62,46,Durban,High,Uber Eats,18,173
+63,25,Pretoria,Medium,Bolt Food,7,152
+64,25,Johannesburg,Medium,Uber Eats,6,104
+65,50,Pretoria,High,Mr D,15,252
+66,43,Johannesburg,Low,Uber Eats,1,66
+67,57,Durban,Low,Uber Eats,1,98
+68,45,Johannesburg,Low,Uber Eats,0,109
+69,55,Durban,High,Mr D,9,257
+70,42,Cape Town,Medium,Uber Eats,6,168
+71,20,Johannesburg,Low,Uber Eats,2,101
+72,37,Johannesburg,Low,Mr D,3,70
+73,57,Cape Town,High,Bolt Food,14,259
+74,51,Pretoria,Medium,Mr D,4,108
+75,35,Pretoria,Low,Uber Eats,0,101
+76,42,Cape Town,Medium,Uber Eats,6,124
+77,36,Durban,High,Bolt Food,18,253
+78,27,Johannesburg,Medium,Uber Eats,5,118
+79,45,Johannesburg,Medium,Mr D,9,177
+80,50,Cape Town,High,Uber Eats,10,179
+81,39,Cape Town,Low,Mr D,0,77
+82,28,Cape Town,High,Mr D,19,203
+83,23,Johannesburg,Low,Bolt Food,3,103
+84,46,Johannesburg,High,Bolt Food,9,260
+85,19,Durban,Low,Uber Eats,1,93
+86,25,Cape Town,Medium,Bolt Food,6,105
+87,57,Durban,High,Bolt Food,18,150
+88,50,Durban,Medium,Bolt Food,10,168
+89,34,Pretoria,Medium,Mr D,3,141
+90,51,Pretoria,Medium,Mr D,9,134
+91,24,Pretoria,Medium,Uber Eats,8,124
+92,20,Durban,Low,Uber Eats,2,105
+93,41,Cape Town,Medium,Uber Eats,8,110
+94,25,Cape Town,Medium,Bolt Food,5,148
+95,55,Pretoria,Medium,Uber Eats,7,139
+96,51,Johannesburg,Medium,Mr D,6,116
+97,50,Durban,Medium,Bolt Food,6,179
+98,46,Cape Town,Low,Mr D,3,108
+99,46,Pretoria,Medium,Uber Eats,4,168
+100,27,Cape Town,High,Mr D,10,270
+101,30,Pretoria,Medium,Mr D,3,145
+102,25,Johannesburg,Medium,Uber Eats,3,166
+103,28,Durban,Medium,Uber Eats,3,148
+104,42,Cape Town,Medium,Mr D,8,135
+105,56,Johannesburg,Medium,Mr D,8,155
+106,57,Johannesburg,Medium,Mr D,8,103
+107,47,Pretoria,Medium,Uber Eats,5,176
+108,48,Cape Town,Medium,Uber Eats,9,167
+109,33,Pretoria,High,Uber Eats,20,224
+110,50,Johannesburg,Low,Mr D,3,118
+111,56,Durban,Medium,Bolt Food,10,154
+112,56,Johannesburg,High,Mr D,17,247
+113,30,Durban,High,Bolt Food,11,238
+114,41,Durban,High,Bolt Food,9,290
+115,48,Johannesburg,Medium,Uber Eats,6,159
+116,44,Johannesburg,Medium,Mr D,10,178
+117,50,Johannesburg,High,Bolt Food,19,250
+118,26,Cape Town,Medium,Uber Eats,10,113
+119,44,Pretoria,Medium,Mr D,9,130
+120,54,Durban,High,Bolt Food,18,203
+121,22,Durban,Low,Uber Eats,2,84
+122,52,Durban,High,Bolt Food,14,216
+123,56,Durban,Low,Uber Eats,1,81
+124,25,Pretoria,Medium,Mr D,5,132
+125,34,Cape Town,High,Bolt Food,18,285
+126,40,Pretoria,High,Bolt Food,20,262
+127,46,Johannesburg,Medium,Mr D,10,116
+128,33,Durban,High,Mr D,15,285
+129,55,Durban,Medium,Mr D,7,130
+130,29,Cape Town,Medium,Bolt Food,9,172
+131,56,Pretoria,Medium,Uber Eats,6,117
+132,32,Johannesburg,Medium,Uber Eats,4,142
+133,52,Johannesburg,Medium,Bolt Food,10,153
+134,22,Pretoria,Medium,Mr D,10,130
+135,27,Johannesburg,High,Uber Eats,19,241
+136,23,Durban,Low,Mr D,0,82
+137,26,Johannesburg,High,Uber Eats,20,195
+138,39,Durban,Low,Uber Eats,2,79
+139,31,Cape Town,Medium,Bolt Food,4,133
+140,28,Cape Town,High,Uber Eats,8,180
+141,51,Cape Town,Low,Bolt Food,1,108
+142,40,Johannesburg,High,Mr D,14,267
+143,42,Cape Town,Medium,Mr D,5,137
+144,37,Pretoria,Medium,Mr D,6,129
+145,34,Durban,High,Mr D,10,233
+146,35,Cape Town,High,Mr D,18,211
+147,53,Durban,Medium,Bolt Food,10,109
+148,28,Johannesburg,High,Uber Eats,18,183
+149,53,Johannesburg,Medium,Mr D,10,153
+150,29,Durban,Medium,Mr D,5,166
+151,35,Pretoria,Medium,Uber Eats,10,146
+152,23,Johannesburg,Low,Mr D,3,77
+153,56,Pretoria,Low,Mr D,0,71
+154,27,Cape Town,High,Mr D,14,278
+155,53,Pretoria,Medium,Mr D,6,123
+156,42,Johannesburg,Low,Bolt Food,1,76
+157,46,Cape Town,Low,Mr D,0,66
+158,41,Durban,Low,Uber Eats,3,94
+159,21,Cape Town,Medium,Uber Eats,3,112
+160,40,Johannesburg,Medium,Uber Eats,7,138
+161,41,Pretoria,Medium,Bolt Food,6,133
+162,24,Johannesburg,Low,Uber Eats,0,72
+163,48,Cape Town,Medium,Uber Eats,9,156
+164,28,Johannesburg,High,Uber Eats,11,224
+165,46,Pretoria,Medium,Mr D,10,138
+166,30,Cape Town,High,Mr D,12,273
+167,36,Johannesburg,Low,Mr D,3,72
+168,54,Johannesburg,Medium,Bolt Food,8,174
+169,41,Pretoria,Medium,Uber Eats,4,170
+170,56,Durban,High,Bolt Food,18,256
+171,56,Cape Town,Medium,Uber Eats,6,157
+172,23,Durban,Medium,Bolt Food,7,160
+173,45,Pretoria,Medium,Mr D,3,124
+174,50,Durban,Medium,Uber Eats,5,105
+175,35,Johannesburg,Medium,Uber Eats,5,164
+176,30,Durban,Medium,Uber Eats,3,151
+177,20,Johannesburg,Medium,Mr D,8,130
+178,44,Cape Town,Medium,Mr D,8,135
+179,54,Cape Town,High,Uber Eats,8,235
+180,42,Cape Town,Medium,Bolt Food,8,104
+181,21,Durban,Low,Uber Eats,3,80
+182,30,Johannesburg,High,Mr D,14,238
+183,43,Pretoria,Medium,Mr D,6,132
+184,31,Cape Town,Medium,Uber Eats,3,120
+185,33,Cape Town,High,Bolt Food,15,233
+186,46,Durban,Medium,Uber Eats,10,102
+187,42,Pretoria,Medium,Uber Eats,4,178
+188,39,Johannesburg,Low,Bolt Food,1,81
+189,44,Durban,Medium,Mr D,7,176
+190,44,Johannesburg,Medium,Uber Eats,8,123
+191,20,Durban,Low,Uber Eats,2,108
+192,47,Pretoria,Medium,Mr D,9,177
+193,29,Cape Town,Medium,Bolt Food,7,142
+194,34,Pretoria,Medium,Bolt Food,7,156
+195,40,Johannesburg,Medium,Bolt Food,5,156
+196,51,Johannesburg,Low,Bolt Food,2,119
+197,23,Cape Town,Medium,Bolt Food,6,142
+198,40,Durban,Low,Mr D,0,104
+199,54,Cape Town,Low,Mr D,1,109
+200,39,Pretoria,Medium,Mr D,3,178
+201,43,Johannesburg,Low,Mr D,3,107
+202,55,Pretoria,Medium,Uber Eats,8,164
+203,53,Durban,Low,Bolt Food,1,70
+204,29,Cape Town,Medium,Mr D,9,170
+205,28,Johannesburg,High,Uber Eats,8,290
+206,35,Cape Town,High,Uber Eats,15,277
+207,48,Durban,Medium,Uber Eats,3,109
+208,19,Pretoria,Medium,Uber Eats,5,142
+209,48,Pretoria,Medium,Uber Eats,10,162
+210,28,Durban,Medium,Uber Eats,6,109
+211,55,Johannesburg,Medium,Uber Eats,4,170
+212,32,Johannesburg,High,Mr D,11,254
+213,41,Durban,Medium,Mr D,6,142
+214,43,Johannesburg,Low,Mr D,1,101
+215,22,Durban,Low,Bolt Food,1,115
+216,18,Cape Town,Medium,Uber Eats,7,119
+217,40,Cape Town,Medium,Uber Eats,6,111
+218,39,Cape Town,Medium,Uber Eats,3,129
+219,50,Pretoria,Medium,Bolt Food,6,168
+220,28,Durban,Medium,Uber Eats,9,154
+221,30,Cape Town,High,Mr D,20,175
+222,19,Johannesburg,Low,Bolt Food,1,60
+223,28,Cape Town,High,Uber Eats,18,178
+224,54,Johannesburg,Medium,Uber Eats,8,138
+225,59,Durban,Medium,Uber Eats,5,102
+226,27,Johannesburg,High,Uber Eats,19,191
+227,47,Durban,Low,Uber Eats,1,91
+228,43,Durban,Medium,Mr D,10,101
+229,34,Pretoria,Medium,Mr D,9,170
+230,44,Johannesburg,Medium,Uber Eats,4,148
+231,18,Pretoria,Medium,Uber Eats,7,139
+232,21,Pretoria,Low,Mr D,3,81
+233,35,Durban,High,Bolt Food,18,283
+234,36,Pretoria,Medium,Mr D,9,106
+235,33,Johannesburg,Medium,Mr D,3,136
+236,56,Cape Town,High,Bolt Food,12,274
+237,34,Pretoria,Medium,Mr D,8,161
+238,25,Johannesburg,Medium,Mr D,3,165
+239,47,Durban,Medium,Uber Eats,6,173
+240,41,Durban,Low,Mr D,0,63
+241,30,Johannesburg,High,Mr D,9,237
+242,19,Cape Town,Low,Mr D,1,78
+243,26,Johannesburg,Medium,Mr D,3,109
+244,18,Durban,Medium,Bolt Food,3,159
+245,32,Cape Town,High,Mr D,12,254
+246,39,Pretoria,Medium,Mr D,9,170
+247,40,Cape Town,High,Mr D,18,254
+248,23,Pretoria,Low,Mr D,2,68
+249,50,Johannesburg,Low,Bolt Food,1,96
+250,48,Durban,High,Uber Eats,20,163
+251,53,Johannesburg,Low,Mr D,2,67
+252,43,Durban,Low,Mr D,0,87
+253,21,Durban,Low,Bolt Food,1,71
+254,33,Johannesburg,High,Mr D,13,250
+255,46,Pretoria,Medium,Bolt Food,4,138
+256,35,Pretoria,Medium,Uber Eats,7,164
+257,32,Pretoria,Medium,Uber Eats,7,119
+258,27,Pretoria,High,Uber Eats,9,273
+259,50,Pretoria,Medium,Bolt Food,7,109
+260,37,Durban,Medium,Mr D,3,104
+261,33,Johannesburg,Medium,Mr D,6,122
+262,34,Pretoria,Medium,Uber Eats,7,113
+263,28,Cape Town,High,Uber Eats,10,210
+264,48,Johannesburg,High,Uber Eats,16,159
+265,25,Johannesburg,Medium,Uber Eats,5,149
+266,22,Pretoria,Low,Uber Eats,2,76
+267,28,Durban,High,Bolt Food,16,279
+268,54,Durban,Low,Uber Eats,3,113
+269,42,Johannesburg,Medium,Uber Eats,8,175
+270,27,Pretoria,High,Bolt Food,17,243
+271,39,Pretoria,Low,Mr D,1,89
+272,19,Durban,Low,Bolt Food,3,71
+273,18,Cape Town,Low,Uber Eats,3,109
+274,30,Cape Town,Medium,Bolt Food,6,107
+275,27,Johannesburg,High,Bolt Food,9,296
+276,55,Cape Town,Medium,Mr D,7,142
+277,37,Cape Town,Medium,Uber Eats,4,156
+278,27,Durban,High,Bolt Food,16,259
+279,48,Pretoria,Medium,Bolt Food,6,160
+280,23,Johannesburg,Low,Bolt Food,1,106
+281,56,Pretoria,High,Uber Eats,20,219
+282,46,Cape Town,Medium,Mr D,8,124
+283,57,Cape Town,Medium,Bolt Food,9,125
+284,39,Durban,High,Mr D,17,172
+285,30,Johannesburg,Medium,Bolt Food,4,115
+286,26,Cape Town,High,Uber Eats,10,180
+287,38,Durban,Medium,Mr D,4,171
+288,58,Durban,Medium,Mr D,8,153
+289,57,Pretoria,Medium,Uber Eats,7,164
+290,58,Durban,Low,Bolt Food,3,94
+291,27,Johannesburg,Medium,Uber Eats,8,137
+292,29,Johannesburg,Medium,Mr D,10,134
+293,19,Durban,Low,Mr D,0,62
+294,46,Pretoria,High,Bolt Food,9,203
+295,48,Cape Town,High,Bolt Food,17,277
+296,35,Durban,Medium,Bolt Food,9,118
+297,25,Durban,Medium,Mr D,9,102
+298,20,Pretoria,Medium,Uber Eats,8,116
+299,31,Durban,High,Uber Eats,12,288
+300,37,Johannesburg,Low,Mr D,2,105
+301,28,Johannesburg,High,Uber Eats,11,251
+302,47,Pretoria,High,Mr D,18,233
+303,21,Pretoria,Low,Bolt Food,0,68
+304,21,Cape Town,Low,Mr D,0,107
+305,43,Johannesburg,Medium,Uber Eats,7,138
+306,45,Cape Town,Low,Mr D,3,78
+307,30,Cape Town,Medium,Mr D,6,165
+308,27,Cape Town,High,Bolt Food,20,207
+309,26,Durban,High,Mr D,20,261
+310,37,Durban,Low,Bolt Food,0,76
+311,41,Cape Town,Low,Uber Eats,0,118
+312,33,Cape Town,High,Uber Eats,18,157
+313,20,Pretoria,Low,Mr D,3,75
+314,31,Durban,Medium,Uber Eats,7,148
+315,50,Pretoria,High,Mr D,19,164
+316,35,Johannesburg,Low,Mr D,1,82
+317,31,Durban,High,Uber Eats,20,211
+318,32,Pretoria,Medium,Bolt Food,6,145
+319,55,Johannesburg,Medium,Mr D,3,143
+320,28,Cape Town,Medium,Uber Eats,8,151
+321,41,Johannesburg,Low,Bolt Food,1,81
+322,37,Johannesburg,Medium,Mr D,3,145
+323,26,Johannesburg,High,Bolt Food,14,282
+324,42,Johannesburg,High,Mr D,13,265
+325,32,Johannesburg,Medium,Mr D,5,153
+326,31,Cape Town,High,Bolt Food,16,231
+327,20,Durban,Medium,Bolt Food,9,164
+328,44,Johannesburg,Medium,Uber Eats,5,104
+329,24,Cape Town,Low,Bolt Food,3,88
+330,32,Pretoria,Medium,Bolt Food,7,175
+331,47,Durban,Low,Bolt Food,2,68
+332,58,Johannesburg,Low,Uber Eats,1,82
+333,40,Pretoria,Low,Uber Eats,3,68
+334,30,Pretoria,Medium,Uber Eats,5,163
+335,34,Johannesburg,Medium,Mr D,3,117
+336,26,Pretoria,High,Uber Eats,14,258
+337,32,Johannesburg,Medium,Uber Eats,8,167
+338,50,Pretoria,Low,Mr D,2,100
+339,27,Pretoria,Medium,Bolt Food,8,174
+340,29,Cape Town,High,Bolt Food,19,212
+341,37,Johannesburg,Low,Mr D,0,84
+342,28,Johannesburg,High,Uber Eats,9,238
+343,52,Cape Town,Medium,Mr D,3,113
+344,18,Durban,Low,Bolt Food,2,67
+345,22,Pretoria,Low,Mr D,2,78
+346,40,Durban,Low,Mr D,1,109
+347,33,Pretoria,High,Mr D,8,239
+348,42,Durban,High,Uber Eats,17,163
+349,46,Johannesburg,Low,Mr D,2,74
+350,36,Pretoria,Medium,Mr D,4,126
+351,27,Johannesburg,Medium,Bolt Food,3,171
+352,45,Cape Town,Low,Bolt Food,1,112
+353,59,Durban,High,Bolt Food,11,277
+354,49,Johannesburg,High,Uber Eats,17,230
+355,56,Pretoria,Medium,Bolt Food,10,178
+356,30,Pretoria,Medium,Uber Eats,6,118
+357,41,Durban,Medium,Uber Eats,5,158
+358,39,Johannesburg,Medium,Mr D,3,126
+359,26,Durban,High,Mr D,19,214
+360,34,Pretoria,Medium,Bolt Food,4,162
+361,54,Johannesburg,High,Uber Eats,9,187
+362,56,Durban,High,Mr D,15,202
+363,31,Durban,High,Uber Eats,17,203
+364,37,Johannesburg,Medium,Bolt Food,9,157
+365,58,Durban,Low,Uber Eats,3,98
+366,45,Durban,Medium,Mr D,9,166
+367,32,Pretoria,Medium,Bolt Food,7,155
+368,29,Durban,High,Mr D,16,255
+369,45,Durban,Low,Mr D,0,99
+370,39,Pretoria,High,Uber Eats,17,165
+371,39,Pretoria,Low,Mr D,1,109
+372,35,Durban,Low,Uber Eats,1,67
+373,23,Cape Town,Low,Bolt Food,2,91
+374,39,Durban,Medium,Uber Eats,3,108
+375,48,Johannesburg,Medium,Bolt Food,7,157
+376,20,Johannesburg,Low,Bolt Food,0,90
+377,51,Cape Town,High,Bolt Food,10,164
+378,49,Durban,Low,Uber Eats,0,80
+379,50,Pretoria,Medium,Mr D,5,127
+380,48,Cape Town,Low,Mr D,1,74
+381,31,Johannesburg,Medium,Mr D,8,114
+382,23,Pretoria,Low,Uber Eats,0,79
+383,51,Johannesburg,Low,Mr D,1,87
+384,26,Cape Town,High,Bolt Food,12,227
+385,45,Cape Town,Low,Mr D,0,72
+386,29,Pretoria,Medium,Uber Eats,7,123
+387,43,Cape Town,High,Uber Eats,15,231
+388,53,Pretoria,Medium,Mr D,3,167
+389,46,Durban,Medium,Mr D,3,166
+390,19,Pretoria,Low,Mr D,0,65
+391,43,Cape Town,High,Mr D,18,238
+392,35,Durban,Medium,Bolt Food,7,102
+393,21,Durban,Low,Uber Eats,2,74
+394,25,Durban,Medium,Bolt Food,5,155
+395,43,Johannesburg,High,Uber Eats,13,227
+396,58,Durban,Low,Bolt Food,0,114
+397,48,Johannesburg,Medium,Bolt Food,9,151
+398,56,Durban,Medium,Uber Eats,3,122
+399,57,Pretoria,High,Mr D,16,249
+400,44,Durban,Medium,Uber Eats,3,116
+401,24,Pretoria,Medium,Mr D,3,178
+402,30,Durban,Medium,Bolt Food,7,123
+403,46,Pretoria,High,Bolt Food,11,262
+404,35,Johannesburg,Medium,Mr D,3,109
+405,26,Johannesburg,High,Mr D,19,209
+406,20,Cape Town,Low,Mr D,1,117
+407,42,Durban,Medium,Mr D,10,177
+408,24,Johannesburg,Low,Bolt Food,3,86
+409,54,Johannesburg,Low,Mr D,2,98
+410,32,Durban,Medium,Mr D,10,103
+411,46,Durban,Medium,Mr D,5,149
+412,39,Johannesburg,Medium,Uber Eats,5,161
+413,34,Cape Town,Medium,Mr D,9,120
+414,30,Pretoria,High,Mr D,18,219
+415,18,Johannesburg,Low,Uber Eats,0,81
+416,48,Johannesburg,Low,Mr D,2,86
+417,31,Durban,Medium,Mr D,4,168
+418,53,Johannesburg,Low,Mr D,3,66
+419,59,Johannesburg,Medium,Bolt Food,4,129
+420,38,Pretoria,Low,Uber Eats,0,60
+421,50,Durban,Medium,Uber Eats,4,176
+422,45,Johannesburg,Medium,Uber Eats,9,140
+423,47,Johannesburg,High,Uber Eats,15,205
+424,18,Durban,Low,Bolt Food,3,65
+425,42,Pretoria,Low,Bolt Food,0,91
+426,59,Johannesburg,High,Mr D,8,296
+427,46,Johannesburg,High,Mr D,16,294
+428,53,Durban,Medium,Uber Eats,3,175
+429,37,Durban,Low,Mr D,2,116
+430,21,Johannesburg,Low,Bolt Food,0,105
+431,59,Durban,Medium,Bolt Food,10,110
+432,37,Pretoria,Low,Uber Eats,0,113
+433,33,Cape Town,High,Mr D,8,237
+434,41,Pretoria,High,Uber Eats,19,294
+435,42,Durban,Medium,Mr D,9,150
+436,44,Durban,Medium,Bolt Food,7,157
+437,48,Johannesburg,Low,Mr D,1,90
+438,49,Durban,Medium,Mr D,5,152
+439,38,Johannesburg,Low,Mr D,2,63
+440,44,Cape Town,Low,Uber Eats,0,90
+441,28,Durban,High,Bolt Food,11,203
+442,34,Johannesburg,Medium,Mr D,8,121
+443,44,Cape Town,Medium,Bolt Food,3,134
+444,21,Johannesburg,Low,Mr D,0,85
+445,53,Johannesburg,Medium,Mr D,3,144
+446,43,Durban,Low,Uber Eats,1,115
+447,45,Cape Town,Medium,Mr D,6,142
+448,54,Johannesburg,Low,Mr D,3,97
+449,38,Pretoria,Medium,Bolt Food,7,174
+450,33,Cape Town,High,Bolt Food,9,255
+451,25,Pretoria,Medium,Uber Eats,4,176
+452,34,Durban,Medium,Mr D,5,129
+453,30,Johannesburg,Medium,Uber Eats,3,153
+454,57,Pretoria,Medium,Bolt Food,7,101
+455,28,Cape Town,Medium,Mr D,8,179
+456,28,Pretoria,Medium,Bolt Food,10,106
+457,48,Cape Town,Low,Mr D,1,105
+458,31,Cape Town,Medium,Mr D,5,179
+459,36,Pretoria,Low,Mr D,1,65
+460,26,Cape Town,Medium,Mr D,9,111
+461,40,Johannesburg,Medium,Uber Eats,8,168
+462,53,Pretoria,Medium,Bolt Food,5,157
+463,41,Pretoria,Low,Bolt Food,0,98
+464,43,Durban,Medium,Mr D,7,175
+465,18,Johannesburg,Medium,Uber Eats,7,151
+466,35,Cape Town,High,Bolt Food,10,262
+467,49,Pretoria,Medium,Mr D,10,178
+468,22,Johannesburg,Low,Bolt Food,3,112
+469,21,Durban,Low,Bolt Food,3,62
+470,27,Pretoria,High,Uber Eats,15,172
+471,35,Johannesburg,Low,Bolt Food,3,112
+472,48,Cape Town,High,Mr D,8,280
+473,20,Pretoria,Low,Mr D,0,84
+474,50,Durban,Low,Bolt Food,0,117
+475,43,Durban,Low,Mr D,1,109
+476,44,Cape Town,High,Uber Eats,10,234
+477,58,Cape Town,Low,Mr D,0,96
+478,48,Cape Town,Medium,Bolt Food,3,137
+479,41,Johannesburg,Medium,Uber Eats,7,159
+480,20,Cape Town,Low,Mr D,0,113
+481,36,Johannesburg,High,Uber Eats,13,227
+482,31,Pretoria,High,Mr D,8,226
+483,55,Cape Town,High,Uber Eats,14,200
+484,55,Durban,Medium,Bolt Food,3,128
+485,22,Durban,Low,Uber Eats,3,90
+486,42,Cape Town,Medium,Uber Eats,3,176
+487,27,Cape Town,Medium,Bolt Food,3,176
+488,20,Durban,Low,Mr D,3,93
+489,45,Durban,Low,Bolt Food,0,91
+490,30,Cape Town,High,Bolt Food,8,218
+491,20,Cape Town,Medium,Mr D,9,123
+492,39,Cape Town,Medium,Bolt Food,9,129
+493,35,Durban,Low,Uber Eats,0,66
+494,50,Johannesburg,High,Bolt Food,19,274
+495,25,Durban,Medium,Uber Eats,6,133
+496,22,Cape Town,Low,Bolt Food,0,97
+497,51,Durban,Low,Mr D,0,63
+498,56,Durban,Medium,Bolt Food,4,132
+499,50,Cape Town,Low,Bolt Food,3,80
+500,43,Johannesburg,Medium,Mr D,8,130
+501,59,Johannesburg,Low,Mr D,1,68
+502,20,Durban,Low,Uber Eats,1,68
+503,59,Johannesburg,Medium,Mr D,10,177
+504,20,Johannesburg,Medium,Mr D,4,123
+505,26,Johannesburg,High,Uber Eats,14,261
+506,38,Pretoria,Low,Bolt Food,2,81
+507,28,Cape Town,Medium,Bolt Food,10,138
+508,37,Johannesburg,High,Uber Eats,12,158
+509,42,Durban,Low,Mr D,1,78
+510,37,Cape Town,High,Uber Eats,17,219
+511,34,Johannesburg,High,Bolt Food,13,243
+512,37,Durban,Medium,Uber Eats,5,125
+513,53,Cape Town,High,Uber Eats,8,270
+514,50,Durban,Medium,Bolt Food,6,136
+515,49,Johannesburg,Medium,Mr D,9,154
+516,29,Johannesburg,Medium,Mr D,10,131
+517,55,Johannesburg,Medium,Bolt Food,4,118
+518,37,Durban,Medium,Uber Eats,3,109
+519,33,Durban,Medium,Uber Eats,8,167
+520,44,Pretoria,High,Mr D,18,229
+521,50,Johannesburg,Medium,Mr D,7,121
+522,26,Johannesburg,High,Uber Eats,18,166
+523,25,Johannesburg,Medium,Mr D,7,132
+524,18,Durban,Low,Uber Eats,0,114
+525,22,Johannesburg,Medium,Mr D,4,148
+526,35,Durban,High,Bolt Food,13,285
+527,20,Cape Town,Low,Bolt Food,1,64
+528,57,Durban,Low,Bolt Food,1,112
+529,48,Pretoria,High,Uber Eats,9,274
+530,56,Pretoria,Low,Mr D,3,106
+531,55,Johannesburg,High,Mr D,18,212
+532,42,Pretoria,High,Uber Eats,13,293
+533,46,Pretoria,Medium,Uber Eats,3,163
+534,44,Pretoria,Medium,Mr D,10,155
+535,22,Pretoria,Low,Uber Eats,2,94
+536,50,Durban,Medium,Bolt Food,4,155
+537,26,Pretoria,Medium,Mr D,4,128
+538,56,Johannesburg,Medium,Bolt Food,7,116
+539,51,Durban,High,Bolt Food,12,291
+540,20,Cape Town,Low,Uber Eats,1,109
+541,40,Pretoria,Medium,Mr D,4,176
+542,33,Cape Town,Medium,Bolt Food,9,160
+543,39,Pretoria,Medium,Mr D,9,148
+544,26,Pretoria,High,Uber Eats,15,272
+545,39,Durban,Medium,Mr D,10,158
+546,18,Johannesburg,Medium,Uber Eats,6,176
+547,48,Cape Town,Medium,Bolt Food,5,106
+548,40,Johannesburg,Medium,Mr D,7,168
+549,34,Johannesburg,Medium,Bolt Food,8,118
+550,33,Johannesburg,High,Mr D,17,293
+551,54,Johannesburg,Medium,Mr D,7,131
+552,25,Cape Town,Medium,Bolt Food,10,135
+553,43,Johannesburg,High,Uber Eats,8,154
+554,30,Durban,Medium,Uber Eats,10,102
+555,20,Johannesburg,Low,Mr D,2,74
+556,57,Cape Town,Medium,Bolt Food,8,174
+557,55,Pretoria,Medium,Uber Eats,7,173
+558,45,Johannesburg,High,Bolt Food,10,152
+559,53,Pretoria,Medium,Mr D,3,140
+560,43,Durban,High,Bolt Food,8,233
+561,30,Johannesburg,High,Bolt Food,12,227
+562,44,Pretoria,Medium,Mr D,10,167
+563,56,Cape Town,Low,Uber Eats,2,113
+564,21,Cape Town,Low,Bolt Food,2,90
+565,26,Johannesburg,Medium,Bolt Food,8,159
+566,27,Cape Town,Medium,Bolt Food,7,122
+567,44,Durban,Medium,Bolt Food,4,160
+568,30,Durban,Medium,Uber Eats,6,118
+569,18,Pretoria,Low,Bolt Food,1,107
+570,46,Johannesburg,High,Bolt Food,13,197
+571,28,Johannesburg,High,Uber Eats,10,256
+572,25,Pretoria,Medium,Mr D,5,171
+573,26,Durban,High,Mr D,13,239
+574,36,Cape Town,Medium,Uber Eats,8,123
+575,54,Pretoria,Low,Bolt Food,2,115
+576,49,Cape Town,Medium,Uber Eats,4,124
+577,19,Pretoria,Medium,Mr D,6,175
+578,26,Durban,High,Mr D,19,187
+579,50,Pretoria,Medium,Mr D,8,160
+580,35,Pretoria,High,Mr D,11,229
+581,32,Cape Town,Medium,Bolt Food,7,142
+582,24,Durban,Low,Mr D,3,81
+583,30,Durban,High,Bolt Food,13,178
+584,39,Pretoria,Low,Uber Eats,3,64
+585,52,Pretoria,Low,Bolt Food,2,96
+586,24,Durban,Medium,Uber Eats,7,112
+587,27,Cape Town,Medium,Bolt Food,10,124
+588,57,Johannesburg,Low,Uber Eats,2,78
+589,39,Johannesburg,Medium,Bolt Food,7,100
+590,36,Cape Town,Low,Mr D,0,63
+591,59,Pretoria,Medium,Bolt Food,6,127
+592,23,Pretoria,Medium,Mr D,3,115
+593,41,Durban,Medium,Uber Eats,4,176
+594,29,Pretoria,Medium,Mr D,9,129
+595,35,Cape Town,Low,Bolt Food,2,85
+596,56,Pretoria,Low,Bolt Food,3,77
+597,50,Cape Town,Medium,Uber Eats,9,158
+598,19,Cape Town,Medium,Mr D,7,162
+599,49,Durban,High,Bolt Food,9,220
+600,59,Cape Town,Medium,Mr D,5,175
+601,52,Pretoria,Low,Bolt Food,3,116
+602,21,Cape Town,Low,Bolt Food,3,79
+603,48,Pretoria,Low,Bolt Food,1,112
+604,18,Cape Town,Low,Uber Eats,1,76
+605,31,Pretoria,Medium,Uber Eats,5,112
+606,52,Pretoria,Low,Mr D,3,106
+607,30,Durban,High,Uber Eats,10,293
+608,35,Johannesburg,Low,Uber Eats,3,100
+609,47,Durban,Medium,Uber Eats,9,114
+610,57,Johannesburg,Medium,Mr D,7,165
+611,59,Pretoria,Medium,Uber Eats,7,179
+612,59,Durban,Low,Bolt Food,3,116
+613,23,Durban,Low,Uber Eats,3,69
+614,35,Cape Town,High,Mr D,16,284
+615,25,Durban,High,Mr D,14,190
+616,57,Johannesburg,High,Mr D,9,259
+617,46,Pretoria,Medium,Uber Eats,6,121
+618,21,Johannesburg,Low,Bolt Food,1,97
+619,43,Johannesburg,Medium,Bolt Food,3,130
+620,30,Durban,High,Uber Eats,18,295
+621,54,Cape Town,Medium,Bolt Food,10,126
+622,52,Johannesburg,Medium,Mr D,8,134
+623,45,Durban,High,Bolt Food,13,286
+624,29,Johannesburg,Medium,Bolt Food,6,134
+625,59,Cape Town,Medium,Mr D,5,154
+626,40,Durban,High,Mr D,19,242
+627,41,Cape Town,Low,Mr D,2,82
+628,45,Johannesburg,Medium,Uber Eats,5,155
+629,55,Johannesburg,Medium,Mr D,9,100
+630,24,Pretoria,Low,Uber Eats,3,68
+631,46,Cape Town,Medium,Mr D,7,170
+632,29,Johannesburg,High,Mr D,13,297
+633,34,Cape Town,Medium,Mr D,3,126
+634,57,Durban,Low,Mr D,1,95
+635,22,Johannesburg,Low,Bolt Food,3,115
+636,32,Durban,Medium,Bolt Food,9,118
+637,30,Cape Town,Medium,Mr D,8,178
+638,33,Johannesburg,Medium,Mr D,10,109
+639,58,Johannesburg,Low,Mr D,0,108
+640,47,Johannesburg,High,Mr D,17,204
+641,36,Johannesburg,Low,Bolt Food,3,78
+642,24,Johannesburg,Low,Bolt Food,2,115
+643,55,Johannesburg,High,Mr D,9,244
+644,45,Johannesburg,High,Bolt Food,18,173
+645,56,Pretoria,Medium,Mr D,7,143
+646,22,Durban,Low,Bolt Food,1,89
+647,46,Pretoria,Medium,Mr D,4,136
+648,44,Johannesburg,Low,Uber Eats,0,89
+649,20,Durban,Medium,Uber Eats,5,106
+650,26,Durban,High,Mr D,17,226
+651,32,Cape Town,High,Uber Eats,12,240
+652,44,Pretoria,Low,Bolt Food,3,69
+653,30,Johannesburg,High,Mr D,10,210
+654,25,Durban,High,Mr D,16,298
+655,29,Cape Town,High,Bolt Food,9,280
+656,33,Johannesburg,Medium,Bolt Food,9,124
+657,47,Cape Town,Medium,Bolt Food,5,116
+658,43,Durban,Low,Uber Eats,2,115
+659,37,Johannesburg,Low,Bolt Food,3,90
+660,44,Durban,Low,Mr D,1,63
+661,30,Durban,Medium,Mr D,6,171
+662,19,Durban,Medium,Uber Eats,8,109
+663,38,Johannesburg,Low,Mr D,2,62
+664,49,Pretoria,High,Bolt Food,20,254
+665,51,Cape Town,High,Uber Eats,20,274
+666,25,Durban,High,Uber Eats,18,257
+667,35,Pretoria,Medium,Bolt Food,3,162
+668,38,Cape Town,Low,Bolt Food,1,83
+669,55,Cape Town,Medium,Bolt Food,6,106
+670,34,Pretoria,Medium,Uber Eats,4,125
+671,32,Cape Town,Medium,Mr D,3,161
+672,54,Pretoria,Medium,Uber Eats,5,164
+673,25,Johannesburg,High,Bolt Food,13,232
+674,42,Pretoria,Medium,Bolt Food,9,111
+675,30,Johannesburg,High,Bolt Food,10,219
+676,25,Pretoria,Medium,Bolt Food,3,138
+677,40,Cape Town,Low,Uber Eats,3,106
+678,38,Cape Town,High,Uber Eats,16,215
+679,24,Pretoria,Low,Bolt Food,0,79
+680,40,Durban,Medium,Bolt Food,4,132
+681,43,Cape Town,Low,Mr D,2,82
+682,58,Pretoria,Low,Bolt Food,1,119
+683,32,Cape Town,Medium,Bolt Food,4,156
+684,40,Johannesburg,Medium,Uber Eats,6,108
+685,53,Cape Town,High,Bolt Food,11,197
+686,50,Pretoria,Medium,Bolt Food,8,173
+687,33,Cape Town,High,Mr D,13,226
+688,33,Pretoria,Medium,Bolt Food,7,105
+689,43,Pretoria,Medium,Bolt Food,7,102
+690,27,Durban,Medium,Mr D,8,162
+691,18,Johannesburg,Low,Uber Eats,1,117
+692,29,Cape Town,Medium,Bolt Food,10,167
+693,45,Johannesburg,Medium,Uber Eats,5,156
+694,53,Johannesburg,Medium,Uber Eats,7,149
+695,31,Durban,Medium,Mr D,8,142
+696,59,Durban,Medium,Uber Eats,8,167
+697,36,Johannesburg,Medium,Uber Eats,3,118
+698,33,Durban,Medium,Bolt Food,10,117
+699,40,Cape Town,Medium,Bolt Food,5,138
+700,58,Cape Town,Low,Uber Eats,2,91
+701,47,Cape Town,Low,Bolt Food,1,116
+702,53,Cape Town,Low,Uber Eats,0,71
+703,19,Durban,Low,Uber Eats,1,64
+704,39,Pretoria,Low,Bolt Food,3,68
+705,46,Johannesburg,Medium,Uber Eats,4,179
+706,59,Cape Town,Medium,Mr D,7,150
+707,27,Pretoria,Medium,Uber Eats,3,104
+708,23,Durban,Low,Mr D,3,118
+709,42,Johannesburg,Low,Mr D,1,63
+710,57,Johannesburg,High,Mr D,15,248
+711,27,Cape Town,High,Bolt Food,13,259
+712,33,Johannesburg,Medium,Bolt Food,5,140
+713,34,Cape Town,Medium,Mr D,9,153
+714,48,Johannesburg,Medium,Uber Eats,5,158
+715,18,Cape Town,Medium,Uber Eats,4,125
+716,57,Durban,Low,Bolt Food,2,119
+717,23,Durban,Medium,Mr D,3,150
+718,38,Pretoria,Low,Bolt Food,2,114
+719,36,Durban,Low,Uber Eats,1,115
+720,29,Pretoria,Medium,Mr D,9,116
+721,27,Pretoria,Medium,Uber Eats,8,116
+722,54,Durban,Low,Mr D,1,108
+723,33,Pretoria,High,Uber Eats,20,229
+724,28,Johannesburg,High,Uber Eats,18,184
+725,50,Cape Town,High,Mr D,20,239
+726,34,Johannesburg,Medium,Mr D,9,133
+727,56,Pretoria,Low,Bolt Food,3,66
+728,33,Durban,Medium,Uber Eats,6,111
+729,34,Pretoria,Medium,Uber Eats,4,111
+730,38,Johannesburg,Medium,Mr D,4,153
+731,51,Pretoria,Low,Mr D,2,74
+732,18,Durban,Low,Bolt Food,0,101
+733,32,Cape Town,Medium,Mr D,8,151
+734,32,Cape Town,Medium,Mr D,9,131
+735,22,Cape Town,Low,Bolt Food,1,77
+736,52,Durban,Medium,Mr D,4,155
+737,41,Cape Town,Medium,Uber Eats,8,153
+738,32,Durban,High,Bolt Food,12,186
+739,54,Durban,Low,Mr D,2,111
+740,40,Cape Town,High,Mr D,19,167
+741,53,Cape Town,Medium,Uber Eats,4,147
+742,57,Johannesburg,Low,Bolt Food,2,116
+743,25,Johannesburg,High,Mr D,15,275
+744,48,Cape Town,Medium,Uber Eats,6,147
+745,48,Johannesburg,High,Mr D,17,297
+746,54,Durban,Medium,Bolt Food,9,153
+747,31,Cape Town,Medium,Bolt Food,7,173
+748,46,Cape Town,Medium,Bolt Food,10,173
+749,36,Cape Town,Low,Bolt Food,0,68
+750,50,Durban,Low,Uber Eats,3,68
+751,24,Cape Town,Medium,Bolt Food,9,105
+752,28,Cape Town,Medium,Bolt Food,7,141
+753,30,Cape Town,High,Bolt Food,12,169
+754,53,Pretoria,Low,Bolt Food,0,96
+755,29,Johannesburg,High,Bolt Food,20,203
+756,19,Cape Town,Low,Mr D,0,98
+757,59,Johannesburg,Low,Mr D,3,81
+758,22,Durban,Low,Bolt Food,3,81
+759,55,Pretoria,High,Mr D,10,236
+760,59,Cape Town,High,Mr D,17,290
+761,35,Pretoria,High,Mr D,19,236
+762,20,Durban,Medium,Bolt Food,5,157
+763,44,Cape Town,Low,Uber Eats,0,83
+764,25,Cape Town,Medium,Mr D,7,152
+765,33,Cape Town,High,Mr D,12,249
+766,57,Cape Town,Medium,Bolt Food,8,169
+767,22,Pretoria,Medium,Bolt Food,7,141
+768,21,Cape Town,Medium,Mr D,5,116
+769,38,Pretoria,Medium,Bolt Food,5,147
+770,44,Durban,Low,Mr D,1,112
+771,50,Cape Town,Medium,Bolt Food,9,105
+772,25,Durban,Medium,Uber Eats,6,152
+773,31,Cape Town,High,Bolt Food,11,222
+774,27,Pretoria,Medium,Uber Eats,6,169
+775,36,Pretoria,Low,Bolt Food,0,88
+776,23,Johannesburg,Low,Mr D,0,83
+777,42,Durban,Medium,Uber Eats,10,105
+778,54,Cape Town,Medium,Mr D,4,137
+779,58,Johannesburg,Medium,Bolt Food,8,170
+780,39,Pretoria,Low,Bolt Food,0,111
+781,48,Pretoria,Medium,Bolt Food,9,129
+782,51,Durban,Low,Bolt Food,2,83
+783,52,Durban,Low,Uber Eats,2,77
+784,30,Durban,Medium,Mr D,5,111
+785,47,Johannesburg,Medium,Uber Eats,8,143
+786,45,Pretoria,Medium,Uber Eats,3,150
+787,24,Pretoria,Medium,Bolt Food,10,118
+788,36,Cape Town,Medium,Bolt Food,3,135
+789,55,Cape Town,Medium,Uber Eats,7,123
+790,22,Johannesburg,Low,Uber Eats,1,114
+791,43,Pretoria,Medium,Bolt Food,7,105
+792,24,Cape Town,Low,Uber Eats,1,82
+793,55,Cape Town,Medium,Uber Eats,6,143
+794,52,Johannesburg,Medium,Bolt Food,6,151
+795,25,Johannesburg,Medium,Mr D,10,140
+796,20,Cape Town,Low,Bolt Food,3,73
+797,49,Johannesburg,High,Mr D,13,272
+798,53,Durban,Low,Bolt Food,2,64
+799,30,Johannesburg,Medium,Uber Eats,3,176
+800,28,Pretoria,Medium,Bolt Food,3,139
+801,49,Pretoria,High,Bolt Food,20,280
+802,53,Pretoria,Low,Bolt Food,2,79
+803,32,Cape Town,Medium,Mr D,7,144
+804,58,Cape Town,Medium,Bolt Food,4,160
+805,50,Pretoria,Medium,Mr D,10,147
+806,31,Durban,Medium,Bolt Food,4,106
+807,32,Durban,Medium,Mr D,9,154
+808,30,Johannesburg,High,Uber Eats,15,164
+809,52,Durban,High,Uber Eats,15,189
+810,31,Cape Town,High,Mr D,12,276
+811,44,Durban,Medium,Bolt Food,5,105
+812,50,Durban,Low,Uber Eats,3,71
+813,37,Cape Town,Low,Uber Eats,3,118
+814,46,Pretoria,Medium,Uber Eats,8,146
+815,46,Johannesburg,Low,Bolt Food,0,119
+816,26,Durban,Medium,Uber Eats,6,112
+817,44,Durban,Medium,Mr D,9,171
+818,54,Johannesburg,Low,Uber Eats,1,71
+819,53,Cape Town,High,Mr D,15,275
+820,44,Pretoria,Low,Bolt Food,1,63
+821,41,Pretoria,Medium,Uber Eats,9,164
+822,58,Pretoria,High,Bolt Food,10,228
+823,48,Durban,Low,Uber Eats,1,113
+824,46,Johannesburg,Medium,Uber Eats,8,128
+825,34,Durban,Medium,Mr D,8,123
+826,34,Johannesburg,Medium,Bolt Food,4,110
+827,24,Cape Town,Low,Mr D,0,103
+828,38,Cape Town,High,Bolt Food,11,164
+829,22,Johannesburg,Low,Bolt Food,3,114
+830,38,Durban,Medium,Mr D,9,125
+831,59,Durban,Low,Bolt Food,0,86
+832,21,Cape Town,Low,Uber Eats,0,99
+833,42,Pretoria,High,Uber Eats,12,192
+834,58,Johannesburg,Medium,Uber Eats,4,146
+835,45,Johannesburg,Low,Bolt Food,3,112
+836,37,Cape Town,Medium,Uber Eats,3,123
+837,37,Pretoria,Medium,Mr D,8,106
+838,53,Durban,Medium,Mr D,6,114
+839,40,Durban,Medium,Mr D,6,114
+840,46,Durban,Low,Mr D,1,108
+841,38,Johannesburg,Low,Mr D,1,103
+842,33,Pretoria,Medium,Mr D,9,167
+843,44,Pretoria,Low,Bolt Food,0,112
+844,26,Johannesburg,High,Uber Eats,15,201
+845,24,Johannesburg,Low,Bolt Food,3,64
+846,22,Durban,Low,Bolt Food,0,87
+847,33,Durban,Medium,Mr D,8,103
+848,19,Durban,Low,Mr D,1,80
+849,23,Cape Town,Low,Bolt Food,1,103
+850,22,Pretoria,Low,Mr D,3,85
+851,35,Pretoria,Medium,Uber Eats,3,148
+852,34,Cape Town,Medium,Bolt Food,9,133
+853,58,Durban,Medium,Uber Eats,9,146
+854,20,Pretoria,Medium,Uber Eats,5,103
+855,41,Pretoria,High,Bolt Food,18,194
+856,28,Cape Town,Medium,Bolt Food,3,116
+857,18,Pretoria,Low,Bolt Food,1,112
+858,48,Pretoria,Medium,Uber Eats,8,109
+859,25,Durban,Medium,Bolt Food,10,121
+860,32,Cape Town,Medium,Bolt Food,10,173
+861,37,Pretoria,Medium,Bolt Food,9,152
+862,18,Johannesburg,Low,Uber Eats,2,73
+863,25,Johannesburg,High,Uber Eats,17,176
+864,46,Durban,Low,Bolt Food,0,60
+865,45,Durban,Medium,Bolt Food,5,117
+866,51,Cape Town,Medium,Bolt Food,3,159
+867,43,Durban,Low,Mr D,2,113
+868,59,Cape Town,Low,Mr D,0,97
+869,52,Pretoria,High,Uber Eats,10,232
+870,27,Durban,Medium,Bolt Food,5,123
+871,30,Johannesburg,Medium,Bolt Food,6,112
+872,26,Johannesburg,Medium,Bolt Food,4,136
+873,24,Pretoria,Low,Uber Eats,1,71
+874,38,Johannesburg,Low,Uber Eats,2,117
+875,31,Johannesburg,Medium,Bolt Food,3,103
+876,43,Pretoria,Low,Uber Eats,0,61
+877,52,Pretoria,High,Uber Eats,10,157
+878,31,Pretoria,Medium,Mr D,8,128
+879,32,Durban,High,Bolt Food,9,195
+880,36,Durban,High,Uber Eats,17,153
+881,19,Cape Town,Low,Uber Eats,2,75
+882,48,Pretoria,Low,Bolt Food,3,76
+883,45,Cape Town,Medium,Bolt Food,9,119
+884,30,Pretoria,High,Bolt Food,18,292
+885,34,Johannesburg,Medium,Uber Eats,6,103
+886,39,Cape Town,Low,Uber Eats,0,98
+887,51,Durban,Medium,Uber Eats,4,139
+888,50,Pretoria,Low,Bolt Food,2,87
+889,27,Johannesburg,Medium,Bolt Food,4,166
+890,24,Pretoria,Low,Mr D,3,71
+891,52,Durban,Medium,Mr D,3,109
+892,39,Cape Town,Medium,Bolt Food,3,136
+893,30,Durban,High,Mr D,13,256
+894,57,Pretoria,Medium,Uber Eats,6,159
+895,51,Durban,Medium,Bolt Food,7,118
+896,25,Durban,Medium,Bolt Food,6,136
+897,42,Pretoria,High,Uber Eats,15,298
+898,19,Cape Town,Low,Uber Eats,0,89
+899,29,Durban,High,Mr D,10,270
+900,41,Pretoria,Medium,Bolt Food,6,110
+901,30,Pretoria,Medium,Mr D,4,171
+902,37,Johannesburg,Medium,Uber Eats,9,177
+903,45,Pretoria,Medium,Bolt Food,5,107
+904,30,Durban,Medium,Bolt Food,6,134
+905,40,Cape Town,Low,Bolt Food,2,61
+906,29,Johannesburg,Medium,Bolt Food,6,135
+907,20,Pretoria,Low,Uber Eats,0,106
+908,36,Cape Town,Medium,Uber Eats,7,163
+909,34,Pretoria,Medium,Uber Eats,5,153
+910,27,Cape Town,Medium,Bolt Food,8,162
+911,42,Cape Town,Medium,Uber Eats,9,146
+912,47,Cape Town,Medium,Mr D,6,130
+913,43,Cape Town,Medium,Mr D,7,100
+914,54,Pretoria,Low,Bolt Food,1,68
+915,34,Durban,High,Uber Eats,14,208
+916,39,Johannesburg,Medium,Mr D,9,105
+917,33,Cape Town,High,Bolt Food,16,163
+918,59,Pretoria,High,Mr D,11,175
+919,46,Durban,Medium,Uber Eats,10,122
+920,59,Cape Town,Medium,Mr D,7,157
+921,22,Cape Town,Medium,Uber Eats,10,151
+922,37,Cape Town,Medium,Mr D,4,100
+923,46,Cape Town,Medium,Mr D,6,105
+924,56,Pretoria,High,Uber Eats,15,237
+925,37,Johannesburg,Medium,Mr D,7,140
+926,57,Cape Town,Low,Uber Eats,3,104
+927,24,Pretoria,Low,Bolt Food,2,73
+928,31,Pretoria,High,Mr D,8,193
+929,37,Pretoria,Medium,Bolt Food,6,106
+930,49,Durban,Medium,Mr D,9,123
+931,39,Durban,Medium,Bolt Food,10,153
+932,55,Cape Town,Medium,Mr D,5,131
+933,23,Cape Town,Medium,Uber Eats,7,150
+934,29,Johannesburg,High,Bolt Food,13,211
+935,35,Durban,High,Uber Eats,14,226
+936,57,Cape Town,High,Uber Eats,8,265
+937,30,Pretoria,High,Mr D,20,174
+938,19,Pretoria,Low,Mr D,1,64
+939,36,Johannesburg,Medium,Uber Eats,8,131
+940,38,Cape Town,Low,Bolt Food,0,81
+941,30,Durban,Medium,Uber Eats,3,143
+942,31,Johannesburg,Medium,Uber Eats,9,136
+943,36,Durban,Medium,Mr D,8,170
+944,43,Durban,High,Uber Eats,13,195
+945,28,Durban,High,Uber Eats,15,152
+946,45,Durban,Medium,Uber Eats,9,117
+947,52,Pretoria,Medium,Bolt Food,6,146
+948,22,Johannesburg,Medium,Bolt Food,4,158
+949,28,Cape Town,Medium,Uber Eats,4,146
+950,48,Durban,Low,Uber Eats,1,108
+951,59,Pretoria,High,Mr D,8,228
+952,33,Cape Town,Medium,Bolt Food,10,105
+953,42,Durban,Medium,Mr D,10,163
+954,21,Cape Town,Low,Bolt Food,2,90
+955,49,Johannesburg,Low,Bolt Food,3,68
+956,58,Johannesburg,Low,Mr D,0,82
+957,38,Cape Town,High,Mr D,16,279
+958,30,Johannesburg,Medium,Uber Eats,6,149
+959,31,Cape Town,High,Mr D,15,289
+960,58,Pretoria,Low,Uber Eats,1,61
+961,57,Pretoria,Low,Uber Eats,1,101
+962,57,Pretoria,High,Mr D,8,210
+963,49,Cape Town,Medium,Bolt Food,7,118
+964,42,Durban,Low,Mr D,0,84
+965,33,Cape Town,Medium,Mr D,5,113
+966,23,Cape Town,Medium,Uber Eats,8,159
+967,29,Cape Town,Medium,Mr D,9,105
+968,55,Pretoria,Medium,Bolt Food,8,151
+969,57,Durban,Low,Uber Eats,3,99
+970,50,Johannesburg,Medium,Uber Eats,9,159
+971,52,Johannesburg,Medium,Uber Eats,9,139
+972,39,Pretoria,High,Mr D,20,177
+973,37,Johannesburg,Low,Bolt Food,1,88
+974,40,Johannesburg,Low,Mr D,2,97
+975,54,Pretoria,High,Mr D,9,235
+976,22,Durban,Low,Bolt Food,1,82
+977,32,Cape Town,Medium,Uber Eats,3,152
+978,42,Pretoria,Medium,Uber Eats,3,108
+979,55,Cape Town,Medium,Mr D,9,148
+980,21,Johannesburg,Low,Mr D,0,113
+981,47,Durban,Low,Uber Eats,0,100
+982,53,Pretoria,Medium,Mr D,7,106
+983,25,Johannesburg,Medium,Mr D,5,172
+984,42,Johannesburg,Medium,Mr D,4,110
+985,48,Cape Town,Low,Bolt Food,3,90
+986,31,Pretoria,High,Mr D,9,266
+987,34,Johannesburg,Medium,Mr D,7,150
+988,21,Johannesburg,Low,Bolt Food,3,71
+989,38,Pretoria,Medium,Mr D,10,112
+990,49,Pretoria,High,Bolt Food,19,210
+991,32,Durban,High,Bolt Food,8,169
+992,26,Pretoria,Medium,Bolt Food,9,132
+993,55,Durban,High,Uber Eats,8,206
+994,36,Pretoria,Low,Uber Eats,0,105
+995,44,Pretoria,Medium,Mr D,8,122
+996,27,Johannesburg,Medium,Bolt Food,5,167
+997,37,Pretoria,Low,Uber Eats,2,116
+998,51,Johannesburg,Medium,Mr D,8,161
+999,24,Pretoria,Low,Bolt Food,2,109
+1000,43,Durban,Low,Uber Eats,2,68
+1001,37,Cape Town,Medium,Bolt Food,4,179
+1002,34,Pretoria,High,Mr D,19,159
+1003,18,Johannesburg,Low,Uber Eats,3,80
+1004,39,Durban,Medium,Mr D,10,143
+1005,26,Durban,Medium,Bolt Food,4,125
+1006,51,Pretoria,High,Uber Eats,14,256
+1007,31,Johannesburg,High,Uber Eats,8,295
+1008,49,Pretoria,Low,Uber Eats,1,105
+1009,40,Johannesburg,Medium,Uber Eats,9,152
+1010,41,Durban,Medium,Mr D,6,179
+1011,33,Johannesburg,Medium,Uber Eats,8,165
+1012,30,Pretoria,High,Bolt Food,18,158
+1013,51,Johannesburg,Low,Mr D,0,96
+1014,39,Cape Town,Medium,Uber Eats,10,170
+1015,51,Durban,Medium,Uber Eats,9,178
+1016,50,Durban,Low,Bolt Food,2,97
+1017,49,Cape Town,Medium,Uber Eats,5,164
+1018,22,Durban,Low,Mr D,1,64
+1019,49,Johannesburg,Low,Mr D,3,119
+1020,35,Johannesburg,Low,Bolt Food,1,83
+1021,57,Johannesburg,Medium,Bolt Food,3,159
+1022,40,Durban,Medium,Bolt Food,4,169
+1023,45,Johannesburg,Low,Mr D,2,101
+1024,40,Durban,Low,Bolt Food,1,83
+1025,34,Durban,High,Bolt Food,13,218
+1026,46,Cape Town,High,Bolt Food,10,261
+1027,18,Johannesburg,Low,Uber Eats,3,103
+1028,36,Pretoria,Medium,Bolt Food,9,146
+1029,19,Cape Town,Low,Mr D,1,108
+1030,56,Johannesburg,High,Uber Eats,8,160
+1031,27,Pretoria,Medium,Uber Eats,4,154
+1032,37,Johannesburg,Low,Bolt Food,3,64
+1033,40,Johannesburg,Medium,Uber Eats,4,145
+1034,45,Cape Town,Medium,Uber Eats,4,154
+1035,46,Cape Town,Medium,Uber Eats,10,159
+1036,27,Johannesburg,Medium,Bolt Food,7,173
+1037,38,Durban,Medium,Bolt Food,5,161
+1038,58,Durban,Low,Uber Eats,1,61
+1039,56,Cape Town,Medium,Uber Eats,6,133
+1040,59,Johannesburg,High,Mr D,11,224
+1041,59,Pretoria,Low,Uber Eats,0,108
+1042,54,Durban,Medium,Uber Eats,8,117
+1043,31,Pretoria,High,Uber Eats,15,166
+1044,52,Pretoria,High,Mr D,8,272
+1045,25,Durban,Medium,Uber Eats,7,106
+1046,22,Johannesburg,Low,Mr D,1,102
+1047,34,Johannesburg,Medium,Bolt Food,5,136
+1048,43,Pretoria,Medium,Mr D,10,107
+1049,30,Pretoria,Medium,Mr D,3,172
+1050,48,Johannesburg,Low,Bolt Food,1,76
+1051,51,Johannesburg,Medium,Mr D,10,112
+1052,22,Johannesburg,Low,Mr D,0,84
+1053,21,Durban,Low,Uber Eats,3,69
+1054,45,Johannesburg,Medium,Bolt Food,8,126
+1055,29,Pretoria,Medium,Uber Eats,10,166
+1056,50,Pretoria,Medium,Bolt Food,9,170
+1057,53,Johannesburg,Medium,Bolt Food,10,177
+1058,20,Johannesburg,Low,Mr D,1,109
+1059,20,Durban,Low,Uber Eats,2,94
+1060,29,Pretoria,Medium,Uber Eats,4,132
+1061,30,Cape Town,Medium,Mr D,5,131
+1062,28,Cape Town,Medium,Mr D,10,134
+1063,36,Cape Town,Low,Mr D,1,104
+1064,59,Cape Town,Medium,Bolt Food,3,176
+1065,53,Cape Town,High,Uber Eats,10,161
+1066,28,Johannesburg,High,Bolt Food,19,190
+1067,42,Cape Town,Medium,Uber Eats,5,127
+1068,40,Durban,Medium,Bolt Food,4,139
+1069,23,Durban,Low,Mr D,3,119
+1070,44,Johannesburg,Medium,Uber Eats,10,112
+1071,39,Durban,Medium,Uber Eats,8,127
+1072,38,Pretoria,Low,Bolt Food,2,119
+1073,54,Cape Town,Low,Uber Eats,0,86
+1074,57,Durban,Medium,Bolt Food,9,128
+1075,47,Cape Town,Medium,Mr D,6,137
+1076,36,Johannesburg,High,Uber Eats,15,265
+1077,40,Cape Town,Medium,Bolt Food,5,102
+1078,27,Cape Town,High,Bolt Food,8,277
+1079,36,Johannesburg,Low,Mr D,0,64
+1080,31,Cape Town,Medium,Uber Eats,10,168
+1081,24,Durban,Low,Bolt Food,2,73
+1082,54,Cape Town,High,Bolt Food,11,197
+1083,34,Pretoria,Medium,Bolt Food,8,179
+1084,46,Pretoria,Medium,Uber Eats,7,161
+1085,27,Johannesburg,High,Uber Eats,20,153
+1086,59,Pretoria,Medium,Mr D,4,112
+1087,35,Johannesburg,Medium,Bolt Food,10,178
+1088,22,Pretoria,Medium,Bolt Food,8,166
+1089,29,Pretoria,Medium,Mr D,6,132
+1090,48,Durban,Low,Mr D,2,67
+1091,54,Johannesburg,Low,Mr D,3,85
+1092,19,Cape Town,Medium,Mr D,3,106
+1093,21,Cape Town,Low,Mr D,1,91
+1094,28,Pretoria,Medium,Bolt Food,4,151
+1095,41,Durban,Low,Mr D,3,76
+1096,25,Johannesburg,High,Uber Eats,18,201
+1097,35,Durban,Medium,Uber Eats,10,165
+1098,22,Cape Town,Low,Mr D,2,113
+1099,34,Johannesburg,High,Mr D,10,156
+1100,31,Johannesburg,High,Uber Eats,8,192
+1101,44,Johannesburg,Medium,Uber Eats,3,104
+1102,46,Durban,Medium,Uber Eats,7,169
+1103,19,Johannesburg,Low,Mr D,2,63
+1104,46,Cape Town,High,Mr D,16,280
+1105,43,Johannesburg,Low,Uber Eats,2,95
+1106,49,Durban,High,Bolt Food,12,293
+1107,28,Pretoria,Medium,Bolt Food,9,154
+1108,18,Durban,Low,Uber Eats,0,117
+1109,26,Johannesburg,High,Uber Eats,19,299
+1110,25,Durban,High,Uber Eats,17,174
+1111,55,Durban,Medium,Uber Eats,10,159
+1112,36,Durban,High,Bolt Food,9,291
+1113,49,Durban,Medium,Mr D,6,147
+1114,56,Pretoria,Low,Uber Eats,2,99
+1115,30,Cape Town,High,Mr D,17,289
+1116,44,Durban,High,Uber Eats,11,212
+1117,44,Pretoria,High,Uber Eats,14,214
+1118,24,Johannesburg,Low,Mr D,3,66
+1119,25,Pretoria,High,Bolt Food,20,287
+1120,24,Cape Town,Low,Uber Eats,1,96
+1121,48,Johannesburg,Low,Bolt Food,2,115
+1122,39,Cape Town,Low,Uber Eats,1,86
+1123,21,Cape Town,Low,Uber Eats,3,78
+1124,59,Johannesburg,Low,Mr D,2,87
+1125,34,Cape Town,Medium,Bolt Food,3,120
+1126,53,Johannesburg,Low,Uber Eats,1,71
+1127,42,Durban,Medium,Mr D,6,148
+1128,59,Cape Town,Medium,Bolt Food,10,112
+1129,20,Cape Town,Medium,Bolt Food,8,105
+1130,24,Johannesburg,Medium,Mr D,9,131
+1131,30,Cape Town,High,Bolt Food,12,209
+1132,38,Johannesburg,High,Mr D,17,169
+1133,51,Durban,Low,Uber Eats,3,98
+1134,28,Durban,High,Uber Eats,20,235
+1135,54,Johannesburg,Medium,Mr D,6,153
+1136,23,Pretoria,Low,Bolt Food,1,107
+1137,40,Johannesburg,High,Bolt Food,20,196
+1138,58,Pretoria,Medium,Uber Eats,4,152
+1139,31,Durban,Medium,Bolt Food,6,107
+1140,57,Pretoria,Low,Mr D,3,86
+1141,27,Pretoria,Medium,Bolt Food,7,132
+1142,48,Johannesburg,Low,Uber Eats,1,80
+1143,53,Johannesburg,Medium,Mr D,6,103
+1144,26,Pretoria,High,Bolt Food,20,153
+1145,22,Pretoria,Low,Bolt Food,2,75
+1146,39,Durban,Medium,Uber Eats,10,161
+1147,50,Cape Town,Low,Uber Eats,1,102
+1148,33,Cape Town,High,Uber Eats,14,200
+1149,18,Cape Town,Low,Uber Eats,0,117
+1150,20,Pretoria,Low,Bolt Food,1,68
+1151,30,Johannesburg,High,Bolt Food,13,236
+1152,34,Durban,Medium,Bolt Food,6,115
+1153,57,Johannesburg,Medium,Bolt Food,6,168
+1154,23,Durban,Medium,Mr D,8,168
+1155,56,Johannesburg,Low,Uber Eats,2,98
+1156,38,Pretoria,Medium,Uber Eats,5,153
+1157,29,Cape Town,Medium,Bolt Food,8,137
+1158,32,Pretoria,Medium,Bolt Food,4,164
+1159,55,Durban,Medium,Mr D,6,130
+1160,30,Pretoria,Medium,Bolt Food,4,160
+1161,28,Pretoria,Medium,Bolt Food,7,147
+1162,51,Cape Town,Medium,Bolt Food,8,112
+1163,56,Cape Town,High,Bolt Food,13,202
+1164,43,Cape Town,Medium,Bolt Food,6,143
+1165,45,Cape Town,Low,Uber Eats,0,116
+1166,51,Johannesburg,Low,Mr D,1,111
+1167,46,Durban,High,Bolt Food,8,264
+1168,28,Pretoria,High,Uber Eats,16,197
+1169,20,Durban,Low,Bolt Food,3,91
+1170,24,Pretoria,Low,Bolt Food,3,77
+1171,22,Johannesburg,Low,Uber Eats,1,85
+1172,59,Pretoria,High,Bolt Food,10,196
+1173,18,Durban,Medium,Mr D,4,149
+1174,47,Cape Town,High,Bolt Food,12,242
+1175,50,Pretoria,Low,Mr D,1,101
+1176,22,Johannesburg,Medium,Bolt Food,4,178
+1177,37,Durban,Low,Mr D,2,71
+1178,38,Pretoria,Medium,Bolt Food,5,132
+1179,43,Johannesburg,High,Uber Eats,15,164
+1180,18,Johannesburg,Low,Bolt Food,1,60
+1181,48,Cape Town,Medium,Bolt Food,8,121
+1182,59,Durban,Medium,Bolt Food,3,129
+1183,27,Johannesburg,Medium,Mr D,8,179
+1184,23,Cape Town,Low,Bolt Food,2,80
+1185,30,Pretoria,High,Mr D,13,209
+1186,41,Pretoria,Medium,Uber Eats,6,121
+1187,41,Pretoria,Medium,Bolt Food,4,165
+1188,57,Cape Town,Low,Uber Eats,1,76
+1189,55,Pretoria,Low,Mr D,1,89
+1190,38,Durban,Medium,Mr D,10,112
+1191,29,Durban,Medium,Mr D,9,123
+1192,51,Pretoria,Medium,Uber Eats,3,104
+1193,32,Durban,High,Bolt Food,10,201
+1194,56,Johannesburg,Medium,Mr D,3,144
+1195,41,Johannesburg,Medium,Mr D,9,126
+1196,18,Johannesburg,Medium,Uber Eats,7,161
+1197,55,Cape Town,Low,Uber Eats,3,98
+1198,38,Durban,Low,Bolt Food,2,107
+1199,30,Durban,Medium,Mr D,10,134
+1200,36,Johannesburg,Medium,Uber Eats,8,167
+1201,57,Pretoria,Low,Mr D,0,61
+1202,32,Pretoria,Medium,Bolt Food,7,173
+1203,20,Johannesburg,Medium,Uber Eats,8,176
+1204,59,Cape Town,Medium,Mr D,4,134
+1205,41,Durban,Low,Mr D,3,69
+1206,19,Durban,Low,Bolt Food,1,61
+1207,38,Pretoria,Medium,Uber Eats,5,128
+1208,24,Cape Town,Low,Bolt Food,0,82
+1209,50,Johannesburg,Low,Mr D,1,107
+1210,27,Johannesburg,High,Uber Eats,15,188
+1211,20,Durban,Medium,Mr D,7,172
+1212,27,Pretoria,High,Uber Eats,10,193
+1213,44,Johannesburg,Medium,Uber Eats,8,169
+1214,36,Pretoria,Medium,Bolt Food,4,120
+1215,53,Cape Town,Medium,Bolt Food,9,129
+1216,44,Pretoria,Medium,Mr D,4,122
+1217,30,Durban,Medium,Mr D,3,113
+1218,37,Pretoria,Low,Mr D,2,85
+1219,43,Pretoria,Low,Bolt Food,1,106
+1220,20,Cape Town,Low,Uber Eats,3,108
+1221,52,Pretoria,Medium,Uber Eats,7,146
+1222,31,Durban,Medium,Bolt Food,5,150
+1223,57,Durban,Medium,Mr D,5,100
+1224,57,Johannesburg,Low,Uber Eats,2,112
+1225,28,Durban,High,Bolt Food,13,195
+1226,29,Johannesburg,Medium,Bolt Food,4,123
+1227,35,Durban,Low,Bolt Food,0,97
+1228,57,Pretoria,Low,Uber Eats,1,96
+1229,23,Durban,Low,Mr D,3,66
+1230,53,Johannesburg,Medium,Mr D,6,113
+1231,46,Cape Town,Medium,Bolt Food,10,104
+1232,25,Cape Town,Medium,Uber Eats,4,156
+1233,43,Durban,Low,Mr D,3,95
+1234,29,Johannesburg,Medium,Uber Eats,9,163
+1235,54,Johannesburg,Medium,Uber Eats,4,179
+1236,40,Pretoria,Medium,Mr D,3,102
+1237,25,Johannesburg,Medium,Bolt Food,6,143
+1238,48,Cape Town,Medium,Uber Eats,10,162
+1239,59,Durban,Medium,Uber Eats,8,176
+1240,58,Johannesburg,High,Uber Eats,12,281
+1241,19,Johannesburg,Low,Uber Eats,3,62
+1242,21,Johannesburg,Medium,Mr D,5,173
+1243,18,Durban,Low,Uber Eats,0,116
+1244,26,Pretoria,Medium,Uber Eats,3,111
+1245,58,Cape Town,Medium,Uber Eats,5,110
+1246,25,Pretoria,High,Bolt Food,13,297
+1247,56,Johannesburg,Low,Mr D,1,108
+1248,51,Cape Town,Low,Uber Eats,2,115
+1249,36,Cape Town,Medium,Bolt Food,4,139
+1250,31,Johannesburg,High,Mr D,12,272
+1251,53,Cape Town,Medium,Uber Eats,6,108
+1252,37,Johannesburg,High,Mr D,19,199
+1253,37,Johannesburg,Medium,Mr D,7,126
+1254,25,Cape Town,Medium,Mr D,3,108
+1255,37,Durban,Medium,Bolt Food,4,131
+1256,26,Johannesburg,Medium,Uber Eats,8,159
+1257,18,Durban,Medium,Bolt Food,7,162
+1258,52,Johannesburg,High,Mr D,16,281
+1259,31,Johannesburg,Medium,Bolt Food,3,173
+1260,52,Durban,Medium,Mr D,4,112
+1261,21,Cape Town,Low,Bolt Food,0,95
+1262,31,Pretoria,Medium,Mr D,10,126
+1263,59,Johannesburg,High,Mr D,14,216
+1264,43,Pretoria,Medium,Bolt Food,6,178
+1265,49,Johannesburg,Medium,Mr D,7,115
+1266,36,Durban,High,Bolt Food,10,167
+1267,33,Durban,Medium,Uber Eats,4,155
+1268,32,Johannesburg,High,Mr D,8,154
+1269,59,Durban,High,Uber Eats,11,162
+1270,18,Cape Town,Medium,Uber Eats,3,163
+1271,49,Cape Town,High,Mr D,17,255
+1272,29,Durban,High,Bolt Food,12,230
+1273,58,Durban,Medium,Uber Eats,5,156
+1274,45,Pretoria,Medium,Mr D,8,125
+1275,29,Pretoria,Medium,Mr D,9,178
+1276,55,Cape Town,High,Uber Eats,9,276
+1277,23,Johannesburg,Low,Mr D,0,92
+1278,58,Cape Town,Medium,Uber Eats,4,136
+1279,31,Durban,Medium,Mr D,9,176
+1280,30,Johannesburg,Medium,Uber Eats,6,157
+1281,35,Cape Town,Medium,Bolt Food,8,131
+1282,39,Durban,Medium,Mr D,7,124
+1283,45,Pretoria,Medium,Mr D,3,165
+1284,47,Durban,Medium,Uber Eats,4,168
+1285,57,Durban,Medium,Bolt Food,7,130
+1286,56,Cape Town,Low,Uber Eats,2,107
+1287,29,Cape Town,Medium,Mr D,4,126
+1288,45,Durban,Medium,Mr D,6,115
+1289,30,Cape Town,High,Mr D,16,175
+1290,45,Pretoria,High,Mr D,20,158
+1291,31,Durban,Medium,Mr D,7,156
+1292,49,Durban,Medium,Mr D,4,156
+1293,33,Durban,Medium,Mr D,10,155
+1294,40,Pretoria,High,Uber Eats,13,227
+1295,39,Johannesburg,High,Uber Eats,19,164
+1296,49,Durban,Medium,Uber Eats,3,139
+1297,50,Johannesburg,Medium,Mr D,4,115
+1298,45,Durban,Medium,Uber Eats,3,140
+1299,48,Durban,Medium,Uber Eats,3,132
+1300,56,Johannesburg,Low,Bolt Food,2,119
+1301,40,Durban,Low,Mr D,1,84
+1302,33,Pretoria,High,Uber Eats,20,227
+1303,34,Johannesburg,Medium,Bolt Food,10,155
+1304,41,Pretoria,Medium,Mr D,10,119
+1305,32,Johannesburg,Medium,Mr D,6,153
+1306,51,Pretoria,Medium,Mr D,4,125
+1307,43,Johannesburg,Low,Mr D,3,115
+1308,37,Johannesburg,Medium,Mr D,4,160
+1309,40,Johannesburg,Medium,Mr D,6,148
+1310,44,Johannesburg,Medium,Uber Eats,4,123
+1311,55,Durban,Medium,Uber Eats,7,165
+1312,22,Pretoria,Low,Bolt Food,1,102
+1313,19,Durban,Medium,Uber Eats,3,136
+1314,24,Cape Town,Low,Bolt Food,2,93
+1315,39,Pretoria,High,Uber Eats,14,168
+1316,21,Pretoria,Low,Uber Eats,2,87
+1317,56,Johannesburg,High,Mr D,13,196
+1318,56,Johannesburg,Medium,Uber Eats,8,116
+1319,59,Durban,Medium,Mr D,8,116
+1320,34,Johannesburg,Medium,Mr D,3,149
+1321,54,Johannesburg,Low,Uber Eats,2,114
+1322,49,Cape Town,Medium,Uber Eats,7,113
+1323,44,Cape Town,Medium,Uber Eats,9,172
+1324,55,Johannesburg,Medium,Uber Eats,6,167
+1325,28,Cape Town,High,Bolt Food,8,195
+1326,51,Pretoria,Medium,Mr D,5,155
+1327,55,Cape Town,Medium,Uber Eats,8,109
+1328,43,Cape Town,Medium,Bolt Food,9,107
+1329,25,Johannesburg,Medium,Mr D,5,115
+1330,58,Pretoria,Low,Mr D,3,86
+1331,39,Cape Town,Low,Bolt Food,0,108
+1332,44,Durban,High,Bolt Food,20,175
+1333,45,Johannesburg,Low,Uber Eats,0,92
+1334,37,Pretoria,Medium,Mr D,10,137
+1335,34,Durban,Medium,Bolt Food,5,145
+1336,43,Johannesburg,Medium,Uber Eats,5,158
+1337,25,Cape Town,Medium,Bolt Food,9,150
+1338,21,Cape Town,Medium,Mr D,7,150
+1339,22,Cape Town,Low,Bolt Food,3,83
+1340,53,Durban,Medium,Bolt Food,7,153
+1341,51,Cape Town,High,Bolt Food,12,238
+1342,35,Johannesburg,Low,Bolt Food,0,109
+1343,25,Durban,High,Mr D,20,290
+1344,33,Cape Town,High,Mr D,20,169
+1345,19,Cape Town,Medium,Mr D,9,118
+1346,54,Durban,Low,Bolt Food,1,73
+1347,21,Cape Town,Medium,Uber Eats,9,133
+1348,44,Johannesburg,Medium,Mr D,9,101
+1349,59,Cape Town,Low,Uber Eats,3,74
+1350,41,Cape Town,Medium,Bolt Food,8,153
+1351,31,Johannesburg,Medium,Bolt Food,3,117
+1352,37,Durban,Medium,Bolt Food,3,179
+1353,57,Durban,Medium,Uber Eats,10,172
+1354,44,Pretoria,High,Mr D,8,223
+1355,34,Durban,Medium,Bolt Food,6,122
+1356,51,Pretoria,Medium,Bolt Food,9,156
+1357,37,Cape Town,Low,Mr D,3,82
+1358,58,Pretoria,Medium,Bolt Food,4,132
+1359,34,Durban,Medium,Bolt Food,8,114
+1360,31,Durban,Medium,Mr D,3,117
+1361,23,Pretoria,Medium,Uber Eats,7,139
+1362,45,Durban,Low,Bolt Food,0,75
+1363,56,Durban,Medium,Uber Eats,5,112
+1364,19,Cape Town,Medium,Bolt Food,8,127
+1365,24,Johannesburg,Low,Mr D,3,100
+1366,53,Pretoria,Low,Mr D,3,63
+1367,47,Cape Town,High,Uber Eats,15,237
+1368,24,Durban,Low,Uber Eats,1,67
+1369,22,Johannesburg,Low,Uber Eats,0,79
+1370,31,Durban,High,Bolt Food,9,176
+1371,42,Johannesburg,High,Uber Eats,12,167
+1372,56,Durban,Low,Uber Eats,1,107
+1373,41,Pretoria,Medium,Mr D,7,115
+1374,33,Pretoria,Medium,Uber Eats,3,151
+1375,46,Durban,Medium,Mr D,6,147
+1376,39,Johannesburg,High,Mr D,8,201
+1377,32,Johannesburg,Medium,Uber Eats,10,107
+1378,39,Durban,Medium,Bolt Food,10,172
+1379,26,Pretoria,Medium,Bolt Food,8,178
+1380,32,Durban,High,Bolt Food,17,224
+1381,57,Durban,Medium,Bolt Food,4,138
+1382,27,Durban,Medium,Bolt Food,9,138
+1383,21,Cape Town,Low,Bolt Food,2,95
+1384,48,Cape Town,Medium,Uber Eats,7,117
+1385,38,Cape Town,Medium,Mr D,6,107
+1386,38,Johannesburg,High,Uber Eats,12,234
+1387,44,Johannesburg,Low,Mr D,2,109
+1388,52,Cape Town,Low,Uber Eats,2,101
+1389,22,Johannesburg,Medium,Mr D,10,110
+1390,33,Cape Town,Medium,Bolt Food,10,151
+1391,40,Johannesburg,High,Uber Eats,15,156
+1392,19,Johannesburg,Medium,Mr D,8,128
+1393,55,Cape Town,Medium,Uber Eats,6,132
+1394,46,Pretoria,Low,Mr D,2,101
+1395,20,Pretoria,Low,Uber Eats,0,104
+1396,25,Durban,Medium,Uber Eats,7,101
+1397,58,Cape Town,Medium,Uber Eats,4,164
+1398,37,Johannesburg,Medium,Mr D,7,171
+1399,44,Pretoria,Medium,Uber Eats,5,105
+1400,36,Pretoria,Medium,Mr D,10,164
+1401,42,Durban,Low,Mr D,3,101
+1402,46,Pretoria,Medium,Bolt Food,5,135
+1403,36,Johannesburg,Low,Bolt Food,2,68
+1404,37,Johannesburg,Medium,Mr D,5,112
+1405,58,Durban,Low,Uber Eats,1,80
+1406,50,Cape Town,High,Bolt Food,19,255
+1407,51,Cape Town,High,Mr D,9,205
+1408,47,Johannesburg,Medium,Uber Eats,5,112
+1409,24,Johannesburg,Low,Bolt Food,0,60
+1410,28,Johannesburg,High,Mr D,10,250
+1411,58,Pretoria,Low,Bolt Food,3,89
+1412,45,Durban,Medium,Uber Eats,5,168
+1413,22,Johannesburg,Low,Mr D,3,85
+1414,44,Cape Town,Medium,Bolt Food,4,120
+1415,18,Johannesburg,Medium,Mr D,10,157
+1416,32,Pretoria,Medium,Mr D,4,124
+1417,30,Johannesburg,High,Bolt Food,15,218
+1418,23,Cape Town,Low,Bolt Food,1,73
+1419,40,Cape Town,Medium,Bolt Food,8,110
+1420,30,Pretoria,Medium,Uber Eats,8,165
+1421,52,Durban,Medium,Bolt Food,3,127
+1422,45,Cape Town,Low,Bolt Food,2,74
+1423,49,Cape Town,High,Mr D,10,179
+1424,23,Durban,Low,Bolt Food,0,73
+1425,58,Cape Town,High,Bolt Food,19,244
+1426,30,Cape Town,Medium,Mr D,6,108
+1427,38,Cape Town,Low,Bolt Food,0,115
+1428,57,Cape Town,Medium,Uber Eats,4,171
+1429,50,Johannesburg,Low,Mr D,1,112
+1430,31,Durban,High,Bolt Food,8,251
+1431,56,Johannesburg,Low,Mr D,0,91
+1432,32,Cape Town,Medium,Bolt Food,4,159
+1433,30,Durban,Medium,Bolt Food,4,124
+1434,31,Johannesburg,Medium,Uber Eats,6,129
+1435,47,Johannesburg,Low,Mr D,1,100
+1436,47,Johannesburg,Medium,Mr D,6,163
+1437,51,Durban,High,Bolt Food,17,221
+1438,31,Cape Town,Medium,Uber Eats,10,167
+1439,18,Cape Town,Low,Bolt Food,2,73
+1440,57,Johannesburg,Medium,Uber Eats,3,102
+1441,22,Cape Town,Medium,Bolt Food,4,139
+1442,55,Pretoria,Low,Bolt Food,2,89
+1443,47,Cape Town,High,Mr D,14,184
+1444,57,Johannesburg,Medium,Mr D,8,137
+1445,27,Cape Town,High,Bolt Food,11,187
+1446,33,Johannesburg,High,Bolt Food,19,246
+1447,23,Durban,Low,Mr D,2,103
+1448,20,Pretoria,Low,Mr D,2,73
+1449,19,Johannesburg,Low,Mr D,1,110
+1450,29,Pretoria,Medium,Mr D,5,109
+1451,39,Durban,High,Bolt Food,12,164
+1452,52,Durban,High,Bolt Food,12,234
+1453,38,Cape Town,High,Uber Eats,14,154
+1454,56,Durban,Medium,Mr D,4,120
+1455,25,Cape Town,High,Bolt Food,9,223
+1456,58,Johannesburg,Medium,Uber Eats,10,123
+1457,49,Johannesburg,Low,Mr D,1,103
+1458,51,Cape Town,Medium,Bolt Food,4,122
+1459,39,Cape Town,Low,Bolt Food,3,106
+1460,58,Cape Town,Medium,Uber Eats,6,176
+1461,18,Pretoria,Low,Bolt Food,3,95
+1462,53,Cape Town,Medium,Mr D,6,125
+1463,40,Cape Town,Medium,Mr D,5,105
+1464,52,Johannesburg,Low,Mr D,2,95
+1465,27,Durban,Medium,Uber Eats,3,137
+1466,46,Pretoria,Medium,Uber Eats,5,103
+1467,22,Pretoria,Low,Bolt Food,2,104
+1468,33,Johannesburg,High,Uber Eats,18,291
+1469,41,Durban,Medium,Uber Eats,4,142
+1470,53,Durban,Medium,Uber Eats,10,158
+1471,49,Durban,Medium,Bolt Food,10,107
+1472,47,Cape Town,Medium,Uber Eats,5,145
+1473,58,Durban,Low,Bolt Food,1,77
+1474,29,Durban,High,Bolt Food,20,238
+1475,27,Johannesburg,High,Bolt Food,9,226
+1476,46,Cape Town,Medium,Mr D,7,108
+1477,30,Durban,Medium,Bolt Food,7,172
+1478,25,Pretoria,High,Bolt Food,13,152
+1479,57,Durban,Medium,Bolt Food,9,118
+1480,51,Pretoria,Medium,Bolt Food,8,146
+1481,36,Cape Town,Low,Mr D,1,118
+1482,43,Cape Town,Low,Bolt Food,3,78
+1483,44,Durban,High,Bolt Food,16,296
+1484,50,Pretoria,Medium,Bolt Food,7,142
+1485,22,Pretoria,Low,Bolt Food,2,115
+1486,25,Durban,High,Bolt Food,17,162
+1487,43,Johannesburg,Low,Mr D,2,111
+1488,37,Durban,Medium,Bolt Food,5,178
+1489,51,Johannesburg,Medium,Uber Eats,10,122
+1490,21,Pretoria,Low,Mr D,0,100
+1491,40,Pretoria,Low,Uber Eats,0,83
+1492,38,Pretoria,Medium,Mr D,9,179
+1493,42,Johannesburg,Medium,Mr D,9,144
+1494,26,Durban,High,Uber Eats,8,214
+1495,22,Johannesburg,Low,Mr D,3,65
+1496,45,Johannesburg,Low,Mr D,3,99
+1497,32,Durban,High,Bolt Food,13,234
+1498,47,Cape Town,Medium,Bolt Food,5,161
+1499,29,Cape Town,High,Mr D,12,187
+1500,38,Cape Town,Medium,Uber Eats,10,114
+1501,35,Johannesburg,Low,Mr D,3,97
+1502,38,Durban,Medium,Bolt Food,5,117
+1503,54,Pretoria,High,Bolt Food,19,262
+1504,37,Cape Town,Medium,Mr D,4,102
+1505,38,Cape Town,High,Mr D,13,232
+1506,36,Pretoria,Medium,Bolt Food,5,138
+1507,53,Pretoria,Medium,Bolt Food,5,145
+1508,51,Johannesburg,Low,Mr D,2,91
+1509,37,Durban,Low,Uber Eats,2,117
+1510,48,Cape Town,Low,Bolt Food,0,100
+1511,26,Pretoria,Medium,Mr D,9,178
+1512,30,Johannesburg,High,Bolt Food,9,291
+1513,55,Pretoria,Low,Mr D,3,80
+1514,45,Pretoria,High,Bolt Food,13,233
+1515,48,Durban,Medium,Bolt Food,9,107
+1516,26,Durban,Medium,Bolt Food,6,144
+1517,54,Durban,Medium,Bolt Food,3,137
+1518,52,Johannesburg,High,Bolt Food,14,155
+1519,21,Durban,Low,Uber Eats,2,117
+1520,26,Durban,High,Bolt Food,18,179
+1521,53,Johannesburg,Low,Mr D,3,67
+1522,59,Johannesburg,Low,Bolt Food,1,60
+1523,30,Durban,Medium,Bolt Food,10,142
+1524,48,Cape Town,High,Mr D,14,212
+1525,36,Pretoria,Low,Mr D,0,96
+1526,45,Durban,Medium,Uber Eats,10,127
+1527,53,Durban,High,Uber Eats,9,238
+1528,52,Johannesburg,Medium,Mr D,9,107
+1529,41,Cape Town,High,Uber Eats,14,166
+1530,39,Johannesburg,Medium,Mr D,10,111
+1531,35,Johannesburg,Medium,Mr D,9,178
+1532,54,Cape Town,Medium,Mr D,4,153
+1533,44,Durban,Medium,Mr D,6,146
+1534,18,Durban,Low,Bolt Food,0,67
+1535,33,Cape Town,Medium,Bolt Food,8,121
+1536,58,Pretoria,Medium,Bolt Food,3,149
+1537,22,Johannesburg,Low,Mr D,2,118
+1538,27,Pretoria,High,Mr D,14,250
+1539,32,Pretoria,Medium,Mr D,4,109
+1540,34,Pretoria,High,Bolt Food,9,261
+1541,30,Durban,Medium,Mr D,9,147
+1542,27,Pretoria,Medium,Uber Eats,3,122
+1543,24,Johannesburg,Medium,Mr D,5,170
+1544,57,Cape Town,Medium,Bolt Food,5,162
+1545,37,Johannesburg,Medium,Mr D,10,106
+1546,23,Durban,Low,Uber Eats,2,72
+1547,56,Durban,Low,Mr D,0,76
+1548,39,Durban,Medium,Mr D,10,144
+1549,35,Durban,Medium,Mr D,6,159
+1550,59,Johannesburg,Low,Mr D,2,73
+1551,56,Johannesburg,High,Uber Eats,15,161
+1552,49,Johannesburg,Medium,Mr D,6,103
+1553,43,Johannesburg,Low,Mr D,2,60
+1554,34,Cape Town,High,Uber Eats,12,296
+1555,56,Pretoria,Medium,Bolt Food,5,148
+1556,33,Cape Town,Medium,Uber Eats,9,149
+1557,42,Cape Town,High,Uber Eats,16,281
+1558,32,Cape Town,Medium,Mr D,8,164
+1559,59,Pretoria,Medium,Bolt Food,4,109
+1560,41,Johannesburg,Medium,Mr D,6,126
+1561,57,Johannesburg,Medium,Uber Eats,3,167
+1562,24,Pretoria,Low,Mr D,0,93
+1563,40,Cape Town,Medium,Bolt Food,3,156
+1564,30,Pretoria,High,Mr D,18,201
+1565,34,Johannesburg,Medium,Bolt Food,8,107
+1566,46,Durban,Medium,Mr D,8,143
+1567,56,Pretoria,Low,Mr D,0,116
+1568,39,Cape Town,Medium,Bolt Food,4,173
+1569,46,Durban,Low,Uber Eats,0,89
+1570,43,Pretoria,Low,Uber Eats,1,78
+1571,38,Cape Town,Medium,Bolt Food,10,152
+1572,58,Cape Town,Medium,Mr D,7,148
+1573,36,Cape Town,Low,Mr D,0,60
+1574,54,Cape Town,Medium,Mr D,4,101
+1575,49,Johannesburg,Medium,Mr D,8,104
+1576,54,Johannesburg,Low,Mr D,2,89
+1577,23,Durban,Low,Bolt Food,0,75
+1578,37,Pretoria,Medium,Uber Eats,4,145
+1579,48,Johannesburg,Medium,Uber Eats,7,102
+1580,26,Pretoria,High,Bolt Food,16,191
+1581,26,Durban,Medium,Uber Eats,7,173
+1582,39,Cape Town,Medium,Bolt Food,3,160
+1583,22,Durban,Medium,Uber Eats,3,164
+1584,56,Durban,Low,Bolt Food,0,108
+1585,39,Durban,Medium,Uber Eats,8,131
+1586,28,Cape Town,High,Bolt Food,14,247
+1587,48,Pretoria,Low,Bolt Food,3,75
+1588,55,Cape Town,Medium,Mr D,6,104
+1589,28,Cape Town,High,Uber Eats,10,171
+1590,54,Cape Town,Medium,Uber Eats,5,171
+1591,37,Cape Town,Medium,Uber Eats,6,117
+1592,21,Cape Town,Low,Bolt Food,0,75
+1593,43,Pretoria,Medium,Uber Eats,6,140
+1594,58,Cape Town,Low,Uber Eats,2,73
+1595,38,Durban,Low,Uber Eats,0,112
+1596,33,Cape Town,High,Uber Eats,14,291
+1597,23,Johannesburg,Low,Mr D,3,67
+1598,51,Cape Town,Medium,Uber Eats,10,168
+1599,47,Cape Town,Low,Bolt Food,3,66
+1600,24,Durban,Medium,Bolt Food,4,146
+1601,31,Johannesburg,High,Mr D,20,190
+1602,31,Johannesburg,High,Bolt Food,15,154
+1603,46,Durban,Medium,Uber Eats,3,135
+1604,32,Durban,Medium,Bolt Food,8,133
+1605,34,Johannesburg,Medium,Mr D,10,116
+1606,27,Johannesburg,Medium,Uber Eats,3,117
+1607,49,Durban,Medium,Bolt Food,10,149
+1608,35,Durban,Medium,Bolt Food,3,106
+1609,29,Durban,High,Mr D,12,234
+1610,20,Johannesburg,Low,Bolt Food,3,94
+1611,23,Durban,Medium,Uber Eats,7,117
+1612,46,Johannesburg,Medium,Mr D,8,179
+1613,37,Durban,Medium,Bolt Food,6,150
+1614,36,Cape Town,Medium,Bolt Food,3,165
+1615,30,Cape Town,Medium,Mr D,7,129
+1616,51,Cape Town,High,Bolt Food,13,237
+1617,50,Johannesburg,Medium,Uber Eats,4,118
+1618,24,Cape Town,Low,Mr D,3,74
+1619,58,Durban,Medium,Uber Eats,6,103
+1620,55,Cape Town,Low,Uber Eats,0,103
+1621,40,Pretoria,Medium,Mr D,7,160
+1622,28,Pretoria,Medium,Mr D,7,113
+1623,25,Cape Town,Medium,Mr D,8,143
+1624,35,Cape Town,Low,Bolt Food,3,109
+1625,31,Johannesburg,Medium,Uber Eats,4,129
+1626,47,Durban,Medium,Bolt Food,6,176
+1627,37,Pretoria,Low,Mr D,2,82
+1628,59,Cape Town,High,Uber Eats,10,264
+1629,53,Durban,High,Uber Eats,14,157
+1630,57,Durban,Medium,Uber Eats,10,106
+1631,19,Durban,Medium,Mr D,6,135
+1632,49,Pretoria,Low,Bolt Food,0,105
+1633,26,Johannesburg,Medium,Mr D,4,174
+1634,19,Durban,Low,Mr D,1,118
+1635,52,Pretoria,High,Bolt Food,18,224
+1636,48,Durban,Low,Uber Eats,3,91
+1637,42,Cape Town,Low,Uber Eats,0,70
+1638,36,Durban,High,Bolt Food,18,191
+1639,51,Durban,High,Uber Eats,9,226
+1640,22,Durban,Low,Uber Eats,2,70
+1641,47,Cape Town,Low,Mr D,1,109
+1642,55,Cape Town,Medium,Bolt Food,4,121
+1643,36,Pretoria,Low,Mr D,3,91
+1644,53,Pretoria,Medium,Uber Eats,4,135
+1645,23,Pretoria,Medium,Mr D,7,163
+1646,29,Johannesburg,Medium,Uber Eats,8,139
+1647,21,Johannesburg,Low,Mr D,1,116
+1648,42,Johannesburg,Medium,Bolt Food,7,107
+1649,26,Durban,Medium,Uber Eats,3,106
+1650,49,Cape Town,Medium,Mr D,5,114
+1651,54,Cape Town,Low,Uber Eats,1,118
+1652,36,Pretoria,High,Uber Eats,8,296
+1653,48,Durban,Medium,Uber Eats,4,166
+1654,20,Johannesburg,Medium,Uber Eats,5,119
+1655,46,Durban,High,Mr D,16,228
+1656,56,Pretoria,High,Mr D,14,178
+1657,49,Johannesburg,High,Bolt Food,20,196
+1658,40,Durban,Medium,Bolt Food,9,103
+1659,20,Pretoria,Low,Mr D,1,63
+1660,18,Pretoria,Low,Bolt Food,0,65
+1661,24,Pretoria,Low,Mr D,2,60
+1662,56,Pretoria,Low,Bolt Food,1,103
+1663,29,Durban,High,Bolt Food,19,291
+1664,39,Durban,Medium,Bolt Food,6,137
+1665,59,Cape Town,Medium,Bolt Food,9,160
+1666,58,Johannesburg,Medium,Uber Eats,3,136
+1667,18,Johannesburg,Medium,Uber Eats,10,107
+1668,50,Durban,Low,Uber Eats,0,91
+1669,50,Pretoria,High,Bolt Food,17,223
+1670,53,Durban,Medium,Uber Eats,10,104
+1671,51,Cape Town,Medium,Uber Eats,9,170
+1672,34,Cape Town,Medium,Bolt Food,7,121
+1673,32,Pretoria,Medium,Uber Eats,4,124
+1674,38,Pretoria,Medium,Mr D,4,131
+1675,38,Johannesburg,High,Mr D,10,163
+1676,32,Pretoria,Medium,Mr D,6,108
+1677,24,Johannesburg,Low,Bolt Food,2,103
+1678,52,Johannesburg,Medium,Mr D,8,155
+1679,26,Pretoria,Medium,Mr D,8,135
+1680,57,Cape Town,Medium,Bolt Food,5,127
+1681,40,Cape Town,Medium,Uber Eats,7,106
+1682,58,Durban,Medium,Bolt Food,8,145
+1683,32,Johannesburg,Medium,Uber Eats,5,107
+1684,22,Johannesburg,Medium,Mr D,9,167
+1685,31,Pretoria,Medium,Bolt Food,10,105
+1686,48,Cape Town,Medium,Mr D,9,128
+1687,20,Johannesburg,Low,Uber Eats,3,69
+1688,50,Durban,Medium,Bolt Food,5,109
+1689,50,Johannesburg,Low,Uber Eats,0,71
+1690,30,Cape Town,High,Bolt Food,16,245
+1691,33,Durban,High,Mr D,12,269
+1692,53,Durban,High,Uber Eats,19,200
+1693,38,Cape Town,Medium,Bolt Food,7,105
+1694,26,Cape Town,Medium,Uber Eats,4,177
+1695,23,Durban,Low,Uber Eats,1,115
+1696,28,Pretoria,Medium,Bolt Food,8,105
+1697,23,Durban,Low,Mr D,0,61
+1698,43,Cape Town,High,Bolt Food,15,245
+1699,27,Pretoria,High,Bolt Food,13,262
+1700,47,Johannesburg,Medium,Mr D,7,154
+1701,49,Durban,Low,Uber Eats,0,103
+1702,39,Johannesburg,Medium,Mr D,3,120
+1703,33,Johannesburg,High,Uber Eats,19,196
+1704,36,Pretoria,High,Uber Eats,12,288
+1705,32,Pretoria,Medium,Mr D,7,167
+1706,53,Johannesburg,Low,Mr D,2,105
+1707,20,Cape Town,Medium,Uber Eats,10,113
+1708,34,Durban,Medium,Bolt Food,10,178
+1709,32,Durban,High,Bolt Food,14,225
+1710,27,Durban,Medium,Bolt Food,4,110
+1711,33,Pretoria,High,Bolt Food,10,239
+1712,25,Cape Town,Medium,Uber Eats,5,147
+1713,47,Johannesburg,High,Uber Eats,14,271
+1714,21,Durban,Low,Mr D,0,87
+1715,23,Cape Town,Low,Bolt Food,0,70
+1716,22,Pretoria,Low,Bolt Food,2,77
+1717,37,Durban,Medium,Uber Eats,7,129
+1718,18,Cape Town,Medium,Mr D,8,168
+1719,48,Cape Town,Medium,Uber Eats,10,127
+1720,33,Durban,High,Mr D,19,169
+1721,35,Pretoria,Medium,Mr D,7,163
+1722,40,Pretoria,Low,Uber Eats,0,76
+1723,38,Pretoria,Medium,Bolt Food,8,102
+1724,34,Cape Town,Medium,Mr D,4,105
+1725,45,Pretoria,Medium,Uber Eats,8,157
+1726,25,Durban,High,Bolt Food,20,260
+1727,49,Pretoria,Medium,Uber Eats,3,164
+1728,56,Cape Town,High,Mr D,20,200
+1729,54,Pretoria,Medium,Uber Eats,5,105
+1730,20,Pretoria,Low,Mr D,0,87
+1731,36,Johannesburg,Medium,Bolt Food,7,137
+1732,38,Cape Town,Medium,Uber Eats,8,169
+1733,55,Pretoria,Medium,Mr D,9,138
+1734,24,Pretoria,Medium,Mr D,7,100
+1735,42,Johannesburg,Medium,Mr D,3,107
+1736,22,Pretoria,Low,Bolt Food,3,108
+1737,36,Durban,Medium,Bolt Food,9,129
+1738,32,Johannesburg,Medium,Bolt Food,6,126
+1739,30,Durban,Medium,Uber Eats,8,147
+1740,47,Durban,Medium,Bolt Food,7,115
+1741,24,Pretoria,Low,Bolt Food,2,86
+1742,52,Durban,Medium,Bolt Food,5,106
+1743,37,Johannesburg,High,Bolt Food,20,253
+1744,49,Durban,Low,Uber Eats,2,79
+1745,35,Pretoria,Low,Mr D,3,81
+1746,39,Pretoria,High,Uber Eats,9,266
+1747,35,Durban,Low,Uber Eats,3,100
+1748,26,Cape Town,Medium,Uber Eats,3,153
+1749,18,Johannesburg,Low,Bolt Food,1,91
+1750,53,Cape Town,Medium,Bolt Food,4,163
+1751,31,Johannesburg,Medium,Mr D,4,148
+1752,25,Pretoria,High,Bolt Food,12,236
+1753,49,Pretoria,Medium,Mr D,7,115
+1754,57,Johannesburg,High,Uber Eats,15,254
+1755,35,Johannesburg,Medium,Mr D,6,114
+1756,44,Johannesburg,High,Mr D,9,262
+1757,48,Cape Town,Low,Bolt Food,0,100
+1758,58,Durban,Medium,Uber Eats,5,154
+1759,20,Durban,Medium,Uber Eats,8,145
+1760,55,Pretoria,High,Uber Eats,20,281
+1761,50,Cape Town,Low,Mr D,1,85
+1762,25,Durban,Medium,Mr D,4,158
+1763,44,Cape Town,High,Uber Eats,17,253
+1764,29,Johannesburg,Medium,Mr D,6,174
+1765,37,Pretoria,Medium,Mr D,5,166
+1766,29,Cape Town,Medium,Mr D,7,160
+1767,54,Durban,Medium,Uber Eats,3,103
+1768,32,Johannesburg,Medium,Mr D,10,159
+1769,40,Pretoria,Low,Uber Eats,2,98
+1770,25,Pretoria,Medium,Bolt Food,9,103
+1771,39,Pretoria,Medium,Mr D,5,146
+1772,55,Durban,Medium,Mr D,10,164
+1773,43,Pretoria,Low,Uber Eats,3,97
+1774,27,Durban,High,Bolt Food,17,289
+1775,37,Durban,Medium,Bolt Food,8,134
+1776,46,Cape Town,Medium,Uber Eats,4,143
+1777,19,Cape Town,Low,Mr D,0,69
+1778,35,Johannesburg,Low,Uber Eats,1,112
+1779,18,Pretoria,Low,Mr D,3,84
+1780,53,Cape Town,Medium,Uber Eats,9,165
+1781,36,Pretoria,Medium,Mr D,4,121
+1782,40,Cape Town,Low,Mr D,2,85
+1783,20,Johannesburg,Low,Mr D,0,104
+1784,57,Durban,Low,Mr D,3,67
+1785,35,Johannesburg,High,Bolt Food,18,292
+1786,54,Durban,Medium,Uber Eats,9,172
+1787,24,Durban,Medium,Mr D,4,161
+1788,43,Cape Town,Medium,Uber Eats,10,177
+1789,58,Durban,Medium,Bolt Food,7,123
+1790,44,Cape Town,High,Uber Eats,18,248
+1791,29,Pretoria,Medium,Bolt Food,9,109
+1792,50,Pretoria,High,Bolt Food,11,155
+1793,19,Pretoria,Low,Mr D,3,92
+1794,21,Cape Town,Low,Bolt Food,0,96
+1795,37,Cape Town,High,Mr D,20,262
+1796,42,Pretoria,Medium,Mr D,10,178
+1797,51,Durban,Medium,Bolt Food,8,136
+1798,44,Johannesburg,Low,Uber Eats,0,93
+1799,56,Durban,Medium,Uber Eats,8,123
+1800,20,Cape Town,Medium,Mr D,3,166
+1801,32,Johannesburg,High,Uber Eats,20,223
+1802,49,Johannesburg,Low,Mr D,0,96
+1803,57,Cape Town,Medium,Uber Eats,10,119
+1804,45,Pretoria,Medium,Bolt Food,4,176
+1805,48,Johannesburg,Low,Uber Eats,2,87
+1806,42,Pretoria,Medium,Uber Eats,6,116
+1807,40,Pretoria,Low,Uber Eats,1,75
+1808,23,Cape Town,Medium,Mr D,4,166
+1809,45,Pretoria,High,Bolt Food,19,191
+1810,34,Pretoria,High,Mr D,13,162
+1811,34,Cape Town,High,Mr D,19,164
+1812,28,Pretoria,Medium,Mr D,6,151
+1813,44,Cape Town,Medium,Mr D,7,128
+1814,46,Pretoria,Low,Bolt Food,1,80
+1815,27,Pretoria,Medium,Mr D,8,150
+1816,50,Durban,Low,Mr D,1,80
+1817,18,Pretoria,Medium,Mr D,6,114
+1818,53,Durban,High,Bolt Food,13,181
+1819,50,Durban,Medium,Bolt Food,5,138
+1820,40,Johannesburg,Low,Bolt Food,1,61
+1821,55,Cape Town,Medium,Bolt Food,7,166
+1822,56,Cape Town,High,Bolt Food,20,268
+1823,54,Pretoria,High,Bolt Food,11,194
+1824,33,Johannesburg,Medium,Mr D,4,149
+1825,18,Johannesburg,Low,Bolt Food,1,99
+1826,32,Pretoria,High,Mr D,8,159
+1827,37,Cape Town,Low,Bolt Food,0,93
+1828,49,Cape Town,Low,Uber Eats,1,63
+1829,56,Pretoria,Medium,Bolt Food,10,154
+1830,43,Durban,Medium,Mr D,9,173
+1831,29,Cape Town,Medium,Mr D,4,124
+1832,33,Cape Town,Medium,Mr D,6,105
+1833,43,Johannesburg,High,Uber Eats,15,158
+1834,31,Johannesburg,High,Bolt Food,16,164
+1835,54,Durban,High,Uber Eats,12,233
+1836,25,Durban,Medium,Uber Eats,7,156
+1837,58,Pretoria,Low,Uber Eats,1,90
+1838,23,Johannesburg,Medium,Mr D,7,141
+1839,20,Cape Town,Low,Bolt Food,2,74
+1840,38,Durban,High,Uber Eats,14,188
+1841,20,Durban,Medium,Mr D,4,156
+1842,46,Johannesburg,High,Uber Eats,11,267
+1843,31,Durban,Medium,Bolt Food,4,129
+1844,43,Cape Town,High,Uber Eats,12,276
+1845,31,Cape Town,Medium,Uber Eats,6,123
+1846,57,Johannesburg,Medium,Bolt Food,7,121
+1847,25,Durban,Medium,Uber Eats,7,163
+1848,21,Cape Town,Low,Bolt Food,1,108
+1849,47,Pretoria,Low,Uber Eats,2,112
+1850,33,Durban,Medium,Uber Eats,3,133
+1851,44,Durban,Medium,Bolt Food,5,172
+1852,22,Durban,Medium,Bolt Food,9,102
+1853,47,Cape Town,Medium,Uber Eats,8,131
+1854,59,Durban,Low,Mr D,0,91
+1855,52,Pretoria,Low,Bolt Food,2,113
+1856,47,Pretoria,Medium,Bolt Food,10,130
+1857,40,Pretoria,Medium,Bolt Food,9,124
+1858,53,Johannesburg,Medium,Uber Eats,4,138
+1859,30,Durban,Medium,Bolt Food,4,131
+1860,50,Johannesburg,Medium,Uber Eats,10,115
+1861,35,Johannesburg,Low,Mr D,3,114
+1862,28,Johannesburg,High,Bolt Food,20,187
+1863,45,Durban,Medium,Uber Eats,3,100
+1864,49,Cape Town,High,Uber Eats,15,223
+1865,56,Durban,Medium,Mr D,6,156
+1866,27,Johannesburg,Medium,Mr D,7,178
+1867,33,Pretoria,Medium,Mr D,6,149
+1868,46,Cape Town,High,Mr D,17,266
+1869,58,Durban,Low,Mr D,3,90
+1870,38,Durban,High,Uber Eats,17,194
+1871,43,Durban,Medium,Uber Eats,6,151
+1872,34,Durban,High,Mr D,20,163
+1873,30,Johannesburg,Medium,Mr D,3,156
+1874,34,Johannesburg,Medium,Mr D,4,113
+1875,34,Durban,Medium,Mr D,10,165
+1876,51,Durban,Low,Bolt Food,0,89
+1877,37,Pretoria,Low,Mr D,2,84
+1878,55,Pretoria,Low,Bolt Food,0,68
+1879,56,Pretoria,Medium,Bolt Food,4,156
+1880,54,Johannesburg,Medium,Bolt Food,6,123
+1881,43,Cape Town,High,Mr D,14,252
+1882,46,Cape Town,Medium,Uber Eats,6,126
+1883,47,Pretoria,Medium,Bolt Food,5,170
+1884,39,Durban,Medium,Mr D,9,114
+1885,47,Pretoria,Medium,Bolt Food,6,103
+1886,35,Johannesburg,Low,Uber Eats,0,93
+1887,51,Pretoria,High,Bolt Food,8,163
+1888,51,Cape Town,Medium,Bolt Food,3,176
+1889,50,Pretoria,Medium,Bolt Food,4,136
+1890,21,Johannesburg,Low,Mr D,1,87
+1891,20,Cape Town,Low,Bolt Food,3,77
+1892,44,Pretoria,Medium,Bolt Food,4,100
+1893,23,Johannesburg,Low,Uber Eats,2,79
+1894,38,Johannesburg,Medium,Bolt Food,7,118
+1895,21,Pretoria,Low,Bolt Food,3,88
+1896,42,Cape Town,Medium,Bolt Food,8,162
+1897,44,Durban,Medium,Uber Eats,3,164
+1898,55,Cape Town,High,Bolt Food,8,230
+1899,38,Johannesburg,Low,Uber Eats,1,98
+1900,56,Cape Town,Low,Bolt Food,3,103
+1901,49,Cape Town,Medium,Bolt Food,3,170
+1902,26,Johannesburg,Medium,Mr D,4,153
+1903,23,Pretoria,Medium,Mr D,6,122
+1904,25,Pretoria,Medium,Bolt Food,10,134
+1905,34,Pretoria,High,Mr D,18,292
+1906,34,Johannesburg,Medium,Mr D,10,114
+1907,59,Durban,Low,Bolt Food,3,78
+1908,25,Durban,High,Mr D,12,265
+1909,43,Johannesburg,Medium,Uber Eats,9,161
+1910,30,Durban,Medium,Bolt Food,6,156
+1911,54,Cape Town,High,Bolt Food,8,297
+1912,47,Johannesburg,Medium,Bolt Food,7,116
+1913,53,Johannesburg,High,Uber Eats,14,208
+1914,20,Pretoria,Low,Bolt Food,3,106
+1915,28,Cape Town,Medium,Uber Eats,4,167
+1916,34,Johannesburg,Medium,Mr D,8,139
+1917,40,Cape Town,Medium,Bolt Food,7,103
+1918,55,Pretoria,Low,Mr D,2,86
+1919,46,Pretoria,Medium,Mr D,5,169
+1920,40,Cape Town,High,Uber Eats,19,157
+1921,19,Cape Town,Low,Uber Eats,0,80
+1922,48,Johannesburg,Medium,Uber Eats,6,160
+1923,55,Cape Town,Medium,Bolt Food,10,154
+1924,38,Johannesburg,High,Mr D,17,171
+1925,56,Pretoria,Low,Bolt Food,1,77
+1926,59,Durban,High,Uber Eats,17,243
+1927,43,Johannesburg,High,Bolt Food,12,214
+1928,35,Pretoria,Low,Bolt Food,3,67
+1929,27,Cape Town,Medium,Uber Eats,8,178
+1930,32,Durban,Medium,Bolt Food,9,139
+1931,37,Durban,Low,Bolt Food,1,89
+1932,25,Cape Town,Medium,Uber Eats,10,131
+1933,32,Durban,High,Bolt Food,15,163
+1934,45,Durban,Medium,Uber Eats,8,160
+1935,18,Pretoria,Low,Bolt Food,1,91
+1936,30,Johannesburg,Medium,Mr D,10,123
+1937,44,Durban,Low,Mr D,2,88
+1938,51,Johannesburg,Medium,Uber Eats,4,119
+1939,33,Johannesburg,Medium,Bolt Food,7,157
+1940,57,Johannesburg,Low,Bolt Food,2,103
+1941,18,Durban,Medium,Bolt Food,10,151
+1942,58,Pretoria,Low,Bolt Food,0,63
+1943,24,Johannesburg,Low,Uber Eats,0,82
+1944,50,Pretoria,Low,Bolt Food,3,60
+1945,59,Pretoria,Medium,Uber Eats,7,178
+1946,52,Johannesburg,Low,Bolt Food,2,68
+1947,34,Pretoria,Medium,Bolt Food,7,102
+1948,21,Johannesburg,Medium,Mr D,6,106
+1949,43,Pretoria,Medium,Mr D,5,109
+1950,54,Johannesburg,Medium,Bolt Food,6,138
+1951,36,Johannesburg,Medium,Uber Eats,6,151
+1952,39,Cape Town,Low,Mr D,3,89
+1953,29,Johannesburg,High,Mr D,18,273
+1954,54,Johannesburg,High,Uber Eats,17,167
+1955,44,Durban,Low,Mr D,2,71
+1956,40,Cape Town,High,Uber Eats,20,251
+1957,40,Pretoria,Medium,Bolt Food,8,103
+1958,47,Johannesburg,Low,Bolt Food,1,108
+1959,31,Durban,Medium,Bolt Food,10,154
+1960,41,Johannesburg,Medium,Mr D,3,131
+1961,41,Pretoria,Low,Uber Eats,1,86
+1962,22,Cape Town,Medium,Mr D,4,130
+1963,27,Pretoria,Medium,Uber Eats,8,175
+1964,49,Cape Town,Low,Bolt Food,0,112
+1965,37,Pretoria,High,Mr D,15,163
+1966,57,Johannesburg,Medium,Uber Eats,4,147
+1967,46,Pretoria,Low,Uber Eats,1,94
+1968,51,Cape Town,High,Uber Eats,13,282
+1969,27,Durban,High,Bolt Food,9,240
+1970,22,Cape Town,Medium,Bolt Food,9,132
+1971,21,Durban,Medium,Mr D,7,143
+1972,48,Johannesburg,Medium,Bolt Food,10,148
+1973,27,Pretoria,Medium,Bolt Food,4,165
+1974,48,Pretoria,Medium,Uber Eats,6,150
+1975,28,Johannesburg,Medium,Mr D,4,169
+1976,26,Durban,High,Uber Eats,20,234
+1977,26,Cape Town,High,Uber Eats,14,221
+1978,48,Durban,Medium,Bolt Food,10,160
+1979,45,Pretoria,High,Bolt Food,10,156
+1980,21,Durban,Low,Uber Eats,2,74
+1981,51,Durban,Low,Mr D,3,66
+1982,57,Durban,High,Bolt Food,14,179
+1983,39,Durban,Medium,Bolt Food,8,138
+1984,20,Johannesburg,Low,Mr D,2,85
+1985,20,Cape Town,Low,Mr D,0,106
+1986,59,Cape Town,High,Uber Eats,12,244
+1987,30,Johannesburg,High,Uber Eats,13,211
+1988,32,Cape Town,Medium,Bolt Food,10,108
+1989,18,Johannesburg,Low,Bolt Food,3,82
+1990,19,Pretoria,Low,Mr D,3,77
+1991,33,Durban,High,Mr D,20,283
+1992,20,Pretoria,Low,Uber Eats,1,91
+1993,48,Cape Town,Medium,Uber Eats,5,130
+1994,50,Cape Town,Medium,Uber Eats,3,143
+1995,32,Johannesburg,Medium,Uber Eats,8,147
+1996,44,Durban,Low,Uber Eats,2,89
+1997,49,Johannesburg,Low,Bolt Food,2,93
+1998,49,Pretoria,Medium,Uber Eats,10,142
+1999,31,Johannesburg,High,Mr D,18,230
